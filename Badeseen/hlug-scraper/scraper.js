@@ -160,7 +160,7 @@ function processLakeProfileQ(lakeprofilelink,lake){
             function(s){
                 return s.trim();
             });
-        lakebind.blue_grean_algea_risk = table.eq(9).children().eq(1).text();
+        lakebind.blue_green_algea_risk = table.eq(9).children().eq(1).text();
         var operatortemp = table.eq(11).children().eq(1).html().split('<br>');
         lakebind.operator = {
             'name': $('<textarea />').html(operatortemp[0]).text(),
@@ -171,7 +171,7 @@ function processLakeProfileQ(lakeprofilelink,lake){
             'fax': table.eq(14).children().eq(1).text(),
             'website': table.eq(15).children().eq(1).text()
         };
-        lakebind.appropriate_athority = {
+        lakebind.appropriate_authority = {
             'name': table.eq(17).children().eq(1).text(),
             'address': table.eq(18).children().eq(1).text(),
             'address_additional': table.eq(19).children().eq(1).text(),
@@ -278,15 +278,6 @@ function scrapeHLUGBadeseen(callback){
 
             return lakes;
         })
-    .then(
-        function(lakes){
-         // return lakes.splice(4,1);
-         // return lakes.splice(26,1);
-         // for(var i = 0;i<lakes.length;++i){
-         //    console.log(i + ' ' + lakes[i].name);
-         // }
-         return lakes;
-     })
     .then(processLakeData)
     .then(
         function(lakes){
