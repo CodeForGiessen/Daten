@@ -298,8 +298,6 @@ function scrapeHLUGBadeseen(callback){
         });
 };
 
-var retry = 0;
-
 scrapeHLUGBadeseen(
     function(error,lakes){
         if(error === null){
