@@ -1,13 +1,17 @@
 {
-  "name"         : "node-web-scrape",
-  "version"      : "0.0.1",
-  "description"  : "Scrape le web.",
-  "main"         : "server.js",
-  "author"       : "Scotch",
-  "dependencies" : {
-    "express"    : "latest",
-    "request"    : "latest",
-    "cheerio"    : "latest",
-    "q"   : "latest"
-  }
+  "name": "hlug-scraper",
+  "version": "0.0.1",
+  "description": "Scrape le hlug.",
+  "main": "lib/scraper.js",
+  "author": "Vincent Elliott Wagner",
+  "dependencies": {
+    "request": "latest",
+    "cheerio": "latest",
+    "q": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
 }
