@@ -1,0 +1,42 @@
+{
+  "name": "hlugscraper",
+  "version": "0.0.0",
+  "description": "Scraper to scrape badeseen.hlug.de",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "user/repo",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hlugscraper",
+    "scraper"
+  ],
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "lodash": "^3.3.0",
+    "q": "^1.1.2",
+    "request": "^2.53.0"
+  },
+  "devDependencies": {
+    "commander": "^2.6.0",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-cli": "^1.11.0",
+    "jshint-stylish": "^1.0.0",
+    "load-grunt-tasks": "^1.0.0",
+    "lodash": "^3.3.0",
+    "mongoose": "^3.8.23",
+    "q-io": "^1.11.6",
+    "should": "^5.0.1",
+    "time-grunt": "^1.0.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
