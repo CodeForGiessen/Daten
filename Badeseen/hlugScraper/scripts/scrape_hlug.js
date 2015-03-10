@@ -11,11 +11,14 @@ program
     .option('-m --mapping <file>', 'Mapping file')
     .option('-f --file <file>', 'Outputfile')
     .option('-c --compress', 'Minfify')
+    .option('-a --apikey <string>', 'OpenWeatherApiKey')
     .parse(process.argv);
 
 // set default file
 program.file = program.file || 'badeseen.json';
 program.compress =  program.compress || false;
+
+scraper.openWeatherMapApiKey = program.apikey;
 
 fs.read(program.mapping)
 .catch(function(){
@@ -37,5 +40,5 @@ fs.read(program.mapping)
     });
 })
 .catch(function(e){
-    console.log('Error: ' + e);
+    console.trace('Error: ' + e);
 });

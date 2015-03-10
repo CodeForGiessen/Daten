@@ -440,6 +440,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 5
             }
         ],
         "images": [
@@ -488,6 +492,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Bergstrasse/Bensheim/DEHE_PR_0001_Karte_Badesee_Bensheim.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Bergstrasse/Bensheim/DEHE_PR_0001_Badesee_Bensheim.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2950978,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:44:58.000Z"
+            }
         }
     },
     {
@@ -939,6 +969,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -988,6 +1022,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Bergstrasse/Lampertheim/DEHE_PR_0002_Badesee_Lampertheim_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Bergstrasse/Lampertheim/DEHE_PR_0002_Karte_Badesee_Lampertheim.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Bergstrasse/Lampertheim/DEHE_PR_0002_Text_Badesee_Lampertheim_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2881695,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:45:49.000Z"
+            }
         }
     },
     {
@@ -1308,6 +1368,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -1356,6 +1420,32 @@
             "bathymetricChart": null,
             "landUseMap": null,
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Darmstadt/Grosser_Woog/DEHE_PR_0005_Grosser_Woog.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2938913,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:45:16.000Z"
+            }
         }
     },
     {
@@ -1663,6 +1753,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -1711,6 +1805,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Darmstadt-Dieburg/Erlensee/DEHE_PR_0006_Erlensee_Tiefenlinien_HLUG_2003.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Darmstadt-Dieburg/Erlensee/DEHE_PR_0006_Karte_Erlensee.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Darmstadt-Dieburg/Erlensee/DEHE_PR_0006_Text_Erlensee_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2949296,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:46:28.000Z"
+            }
         }
     },
     {
@@ -2018,6 +2138,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -2066,6 +2190,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Heuchelheimer_See_II/DEHE_PR_0009_Heuchelheimer_See_Tiefenlinien_HLUG_2003.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Heuchelheimer_See_II/DEHE_PR_0009_Karte_Heuchelheimer.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Heuchelheimer_See_II/DEHE_PR_0009_Text_Heuchelheimer See II_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2905070,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:39:58.000Z"
+            }
         }
     },
     {
@@ -2389,6 +2539,10 @@
             {
                 "year": "2013",
                 "rating": 2
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -2438,6 +2592,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Trais-Horloffer_See/DEHE_PR_0010_Trais-Horloffer_See_Tiefenlinien_HLUG_2003.JPG",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Trais-Horloffer_See/DEHE_PR_0010_Karte_Trais_Horloffer_See.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Trais-Horloffer_See/DEHE_PR_0010_Trais-Horloffer-See_131401.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2897431,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:46:24.000Z"
+            }
         }
     },
     {
@@ -2785,6 +2965,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -2832,6 +3016,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Waldschwimmbad_Lich/DEHE_PR_0011_Licher_Waldschwimmbad_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Waldschwimmbad_Lich/DEHE_PR_0011_Karte_Licher_Waldschwimmbad.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Waldschwimmbad_Lich/DEHE_PR_0011_Licher_Waldschwimmbad.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2878166,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:38:23.000Z"
+            }
         }
     },
     {
@@ -3147,6 +3357,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -3188,9 +3402,35 @@
             "telephone": "0641 9390-1422"
         },
         "downloads": {
-            "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Launsbacher_See_Tiefenlinien_HLUG_2003.jpg",
-            "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Karte_Launsbacher_See.pdf",
-            "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Text_Launsbacher_See_110415.pdf"
+            "bathymetricChart": "http://www.badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Launsbacher_See_Tiefenlinien_HLUG_2003.jpg",
+            "landUseMap": "http://www.badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Karte_Launsbacher_See.pdf",
+            "generalInformation": "http://www.badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Text_Launsbacher_See_110415.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2883831,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:44:58.000Z"
+            }
         }
     },
     {
@@ -3506,6 +3746,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -3554,6 +3798,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Badesee_Gernsheim/DEHE_PR_0014_Badesee_Gernsheim_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Badesee_Gernsheim/DEHE_PR_0014_Karte_Badesee_Gernsheim.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Badesee_Gernsheim/DEHE_PR_0014_Badesee_Gernsheim.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2920994,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:44:29.000Z"
+            }
         }
     },
     {
@@ -3861,6 +4131,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -3902,6 +4176,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Waldschwimmbad_Ruesselsheim/DEHE_PR_0018_Waldschwimmbad_Ruesselsheim_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Waldschwimmbad_Ruesselsheim/DEHE_PR_0018_Karte_Waldschwimmbad_Ruesselsheim.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Waldschwimmbad_Ruesselsheim/DEHE_PR_0018_Text_Waldschwimmbad_Ruesselsheim_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2842884,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:38:27.000Z"
+            }
         }
     },
     {
@@ -4209,6 +4509,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -4246,6 +4550,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Hersfeld-Rotenburg/Fuldasee_Bebra-Breitenbach/DEHE_PR_0021_Fuldasee_Bebra-Breitenbach_Tiefenlinien_HLUG_2003.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Hersfeld-Rotenburg/Fuldasee_Bebra-Breitenbach/DEHE_PR_0021_Karte_Fuldasee_Bebra_Breitenbach.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Hersfeld-Rotenburg/Fuldasee_Bebra-Breitenbach/DEHE_PR_0021_Bebra_Breitenbach.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2951793,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.766,
+                "temp_min": 8.766,
+                "temp_max": 8.766,
+                "humidity": 96,
+                "pressure": 992.4,
+                "wind": {
+                    "speed": 1.77,
+                    "deg": 291.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:44:54.000Z"
+            }
         }
     },
     {
@@ -4569,6 +4899,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 2
             }
         ],
         "images": [],
@@ -4605,6 +4939,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Hersfeld-Rotenburg/Seepark_Kirchheim/DEHE_PR_0022_Karte_Seepark_Kirchheim.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Hersfeld-Rotenburg/Seepark_Kirchheim/DEHE_PR_0022_Seepark_Kirchheim.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 6553256,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.766,
+                "temp_min": 8.766,
+                "temp_max": 8.766,
+                "humidity": 96,
+                "pressure": 992.4,
+                "wind": {
+                    "speed": 1.77,
+                    "deg": 291.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:31.000Z"
+            }
         }
     },
     {
@@ -4904,6 +5264,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -4940,6 +5304,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Region_Kassel/BUGA-See/DEHE_PR_0024_BUGA-See_Tiefenlinien_HLUG_2002.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Region_Kassel/BUGA-See/DEHE_PR_0024_Karte_BUGA_See.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Region_Kassel/BUGA-See/DEHE_PR_0024_BUGA_See.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2892518,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.466,
+                "temp_min": 8.466,
+                "temp_max": 8.466,
+                "humidity": 99,
+                "pressure": 1009.1,
+                "wind": {
+                    "speed": 2.17,
+                    "deg": 319.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:40:21.000Z"
+            }
         }
     },
     {
@@ -5295,6 +5685,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -5345,6 +5739,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Langener_Waldsee/DEHE_PR_0026_Langener_Waldsee_Tiefenlinien_HLUG_2005.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Langener_Waldsee/DEHE_PR_0026_Karte_Langener_Waldsee_Karte.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Langener_Waldsee/DEHE_PR_0026_Text_LangenerWaldsee.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2881279,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:37:43.000Z"
+            }
         }
     },
     {
@@ -5692,6 +6112,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -5736,6 +6160,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/FKK-Orplid_e._V/DEHE_PR_0029_Karte_FKK_Orplid.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/FKK-Orplid_e._V/DEHE_PR_0029_Text_FKK-Oplid_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2864820,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:44:57.000Z"
+            }
         }
     },
     {
@@ -6091,6 +6541,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -6140,6 +6594,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Heisterberger_Weiher/DEHE_PR_0033_Heisterberger_Weiher_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Heisterberger_Weiher/DEHE_PR_0033_Karte_Heisterberger_Weiher.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Heisterberger_Weiher/DEHE_PR_0033_Text_Heisterberger Weiher_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2934965,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:42:45.000Z"
+            }
         }
     },
     {
@@ -6503,6 +6983,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -6551,6 +7035,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Limburg-Weilburg/Waldsee_Mengerskirchen/DEHE_PR_0038_Waldsee_Mengerskirchen_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Limburg-Weilburg/Waldsee_Mengerskirchen/DEHE_PR_0038_Karte_Waldsee_Mengerskirchen.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Limburg-Weilburg/Waldsee_Mengerskirchen/DEHE_PR_0038_Text_Waldsee Mengerskirchen_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2871953,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:46:14.000Z"
+            }
         }
     },
     {
@@ -6842,6 +7352,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -6890,6 +7404,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Strandbad_Rodenbach/DEHE_PR_0043_Strandbad_Rodenbach_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Strandbad_Rodenbach/DEHE_PR_0043_Karte_Strandbad_Rodenbach.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Strandbad_Rodenbach/DEHE_PR_0043_Strandbad_Rodenbach.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2862944,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 9.141,
+                "temp_min": 9.141,
+                "temp_max": 9.141,
+                "humidity": 98,
+                "pressure": 1007.48,
+                "wind": {
+                    "speed": 2.07,
+                    "deg": 309.004
+                },
+                "clouds": {
+                    "all": 100
+                },
+                "lastUpdated": "2015-03-10T13:40:40.000Z"
+            }
         }
     },
     {
@@ -7229,6 +7769,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -7279,6 +7823,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Marburg-Biedenkopf/Niederweimarer_See/DEHE_PR_0045_Niederweimarer_See_Tiefenlinien_HLUG_2003.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Marburg-Biedenkopf/Niederweimarer_See/DEHE_PR_0045_Karte_Niederweimarer.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Marburg-Biedenkopf/Niederweimarer_See/DEHE_PR_0045_Niederweimarer_See.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2812482,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.291,
+                "temp_min": 8.291,
+                "temp_max": 8.291,
+                "humidity": 90,
+                "pressure": 978.14,
+                "wind": {
+                    "speed": 1.72,
+                    "deg": 276.504
+                },
+                "clouds": {
+                    "all": 88
+                },
+                "lastUpdated": "2015-03-10T13:44:23.000Z"
+            }
         }
     },
     {
@@ -7594,6 +8164,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -7629,6 +8203,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Stockelache/DEHE_PR_0048_Stockelache_Tiefenlinien_HLUG_2003.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Stockelache/DEHE_PR_0048_Karte_Stockenlache.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Stockelache/DEHE_PR_0048_Stockelache.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2946230,
+            "current": {
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "temp": 8.741,
+                "temp_min": 8.741,
+                "temp_max": 8.741,
+                "humidity": 97,
+                "pressure": 999.21,
+                "wind": {
+                    "speed": 2.32,
+                    "deg": 324.504
+                },
+                "clouds": {
+                    "all": 88
+                },
+                "lastUpdated": "2015-03-10T13:44:57.000Z"
+            }
         }
     },
     {
@@ -7936,6 +8536,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -7971,6 +8575,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Neuenhainer_See/DEHE_PR_0050_Neuenhainer_See_Tiefenlinien_HLUG_2003.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Neuenhainer_See/DEHE_PR_0050_Karte_Neuenhainer.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Neuenhainer_See/DEHE_PR_0050_Neuenhainer_See.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 6553277,
+            "current": {
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "temp": 8.741,
+                "temp_min": 8.741,
+                "temp_max": 8.741,
+                "humidity": 97,
+                "pressure": 999.21,
+                "wind": {
+                    "speed": 2.32,
+                    "deg": 324.504
+                },
+                "clouds": {
+                    "all": 88
+                },
+                "lastUpdated": "2015-03-10T13:45:37.000Z"
+            }
         }
     },
     {
@@ -8283,6 +8913,10 @@
             {
                 "year": "2013",
                 "rating": 3
+            },
+            {
+                "year": "2014",
+                "rating": 2
             }
         ],
         "images": [
@@ -8328,6 +8962,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Vogelsbergkreis/Grosser_Pfordter_See/DEHE_PR_0052_Grosser_Pfordter_See_Tiefenlinien_HLUG_2001.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Vogelsbergkreis/Grosser_Pfordter_See/DEHE_PR_0052_Karte_Grosser_Pfordter_See.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Vogelsbergkreis/Grosser_Pfordter_See/DEHE_PR_0052_Pfordter_See.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2838459,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.766,
+                "temp_min": 8.766,
+                "temp_max": 8.766,
+                "humidity": 96,
+                "pressure": 992.4,
+                "wind": {
+                    "speed": 1.77,
+                    "deg": 291.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:36:40.000Z"
+            }
         }
     },
     {
@@ -8651,6 +9311,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -8688,6 +9352,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Twistetalsperre_-_Strandbad_Wetterburg/DEHE_PR_0054_Karte_Twistetalsperre_Strandbad_Wetterburg.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Twistetalsperre_-_Strandbad_Wetterburg/DEHE_PR_0054_Wetterburg.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2955421,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.741,
+                "temp_min": 8.741,
+                "temp_max": 8.741,
+                "humidity": 99,
+                "pressure": 1007.24,
+                "wind": {
+                    "speed": 3.02,
+                    "deg": 321.504
+                },
+                "clouds": {
+                    "all": 88
+                },
+                "lastUpdated": "2015-03-10T13:44:25.000Z"
+            }
         }
     },
     {
@@ -9011,6 +9701,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -9049,6 +9743,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Edertalsperre-Strandbad_Rehbach/DEHE_PR_0057_Karte_Edertalsperre_Strandbad_Rehbach.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Edertalsperre-Strandbad_Rehbach/DEHE_PR_0057_Strandbad_Rehbach.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2920474,
+            "current": {
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "temp": 8.741,
+                "temp_min": 8.741,
+                "temp_max": 8.741,
+                "humidity": 97,
+                "pressure": 999.21,
+                "wind": {
+                    "speed": 2.32,
+                    "deg": 324.504
+                },
+                "clouds": {
+                    "all": 88
+                },
+                "lastUpdated": "2015-03-10T13:45:48.000Z"
+            }
         }
     },
     {
@@ -9372,6 +10092,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -9407,6 +10131,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Campingplatz_Teichmann_Voehl/DEHE_PR_0058_Campingplatz_Teichmann_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Campingplatz_Teichmann_Voehl/DEHE_PR_0058_Kartre_Campingplatz_Teichmann.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Campingplatz_Teichmann_Voehl/DEHE_PR_0058_Campingplatz_Teichmann.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2816769,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 6.366,
+                "temp_min": 6.366,
+                "temp_max": 6.366,
+                "humidity": 98,
+                "pressure": 987.05,
+                "wind": {
+                    "speed": 1.32,
+                    "deg": 304.504
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:39.000Z"
+            }
         }
     },
     {
@@ -9719,6 +10469,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -9757,6 +10511,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Werratalsee_Ostufer/DEHE_PR_0061_Werratalsee_Ostufer_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Werratalsee_Ostufer/DEHE_PR_0061_Karte_Werratal_Ostufer.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Werratalsee_Ostufer/DEHE_PR_0061_Werratal_See_Ost.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2865466,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 7.4,
+                "temp_min": 7.4,
+                "temp_max": 7.4,
+                "humidity": 92,
+                "pressure": 1037.7,
+                "wind": {
+                    "speed": 2.57,
+                    "deg": 297.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T12:37:29.000Z"
+            }
         }
     },
     {
@@ -10064,6 +10844,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -10099,6 +10883,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Gruener_See/DEHE_PR_0064_Gruener_See_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Gruener_See/DEHE_PR_Karte_0064_Gruener_See.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Gruener_See/DEHE_PR_0064_Gruener_See.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2807184,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 7.4,
+                "temp_min": 7.4,
+                "temp_max": 7.4,
+                "humidity": 92,
+                "pressure": 1037.7,
+                "wind": {
+                    "speed": 2.17,
+                    "deg": 319.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T12:37:29.000Z"
+            }
         }
     },
     {
@@ -10398,6 +11208,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -10448,6 +11262,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Kinzigsee/DEHE_PR_0042_Kinzigsee_Tiefenlinien_HLUG_2003.JPG",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Kinzigsee/DEHE_PR_0042_Karte_Kinzigsee.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Kinzigsee/DEHE_PR_0042_Text_Kinzigsee_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2880913,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 9.141,
+                "temp_min": 9.141,
+                "temp_max": 9.141,
+                "humidity": 98,
+                "pressure": 1007.48,
+                "wind": {
+                    "speed": 2.07,
+                    "deg": 309.004
+                },
+                "clouds": {
+                    "all": 100
+                },
+                "lastUpdated": "2015-03-10T13:45:49.000Z"
+            }
         }
     },
     {
@@ -10460,7 +11300,7 @@
         "openTo": "2014-08-30T22:00:00.000Z",
         "messages": [
             {
-                "date": "2015-02-21T23:00:00.000Z",
+                "date": "2015-03-09T23:00:00.000Z",
                 "message": "Badebetrieb am Perfstausee wird bis auf Weiteres eingestellt   Wasserqualität entspricht nicht den EU-Vorgaben für Badegewässer   Der Badebetrieb am Perfstausee in Biedenkopf-Breidenstein wird bis auf Weiteres eingestellt. Wie der Landkreis Marburg-Biedenkopf für Wasserverband Oberes Lahngebiet und die Perfstausee-Betreiber Gesellschaft mitteilt, konnten die Anforderungen an die geforderte Badewasserqualität nicht erreicht werden. „Wir raten daher ausdrücklich aus Gründen der Sicherheit und aus hygienischer Sicht vom Baden im Perfstausee ab“, erklärte Landrätin Kirsten Fründt. Die Funktion als leistungsfähiges Hochwasserrückhaltebecken, also der Hauptzweck des Stausees, werde durch die Einstellung des Badebetriebs nicht beeinträchtigt.   Der Wasserqualität des Perfstausees als Badegewässer im Sinne der EU-Badegewässerverordnung und den ergänzenden Bestimmungen des Landes Hessen muss regelmäßig durch ein Labor überprüft werden. In den vergangen Jahren ist es bereits immer wieder nach Starkregen oder Gewittern zum Teil zu massiven Überschreitungen der Grenzwerte für fäkal-coliformen Keime („Coli-Bakterien“) und Enterococcen gekommen. Dies führte in der Vergangenheit mehrfach zu vorübergehenden Sperrungen der Wasserfläche zum Baden.   „Diese sprunghaften Ausschläge bei den Wasserwerten werden nun zu einer Einstufung ,mangelhaft’ für den Perfstausee durch die EU-Kommission führen“, so Volker Haupt, Geschäftsführer der Perfstausee-Betreiber GmbH. Die belege das statistische Berechungs- und Bewertungsverfahren, das der Badegewässerverordnung zugrunde liegt. „Eine aktuelle Wasseruntersuchung vom 12. Mai 2014 bestätigte erneut, dass die Wasserqualität im See für ein Badegewässer nicht ausreicht“, erläuterte Volker Haupt. Nach den Vorgaben der zuständigen Landes- und Gesundheitsbehörden müsse der Perfstausee daher bis auf Weiteres für den Badebetrieb gesperrt werden.    „Weitere Untersuchungen des Wassers im See werden vorgenommen. Ob der Badebetrieb in diesem Jahr noch einmal freigegeben werden kann, ist jedoch sehr fraglich“, so Volker Haupt. Eine entsprechende Absperrung und Beschilderung an der Liegewiese seien veranlasst.   Die genauen Gründe für die Verunreinigung des Gewässers mit Keimen sind nicht eindeutig geklärt. Vermutlich sind es mehrere Ursachen. Da nahezu regelmäßig nach starken Regenfällen Keimbelastungen auftraten, ist davon auszugehen, dass die Keime aus der Kanalisation über Kanalüberläufe im Oberlauf der Perf in den See gelangt sind. Da die an den See grenzenden Wiesen auch immer stark von Vögeln, wie zum Beispiel Gänsen besucht werden, ist auch eine Verunreinigung durch größere Vogelkot-Mengen nicht auszuschließen, der durch starke Regenfälle von den Wiesen in den See gespült wird. Dafür spricht auch die Art der Keimbelastung."
             }
         ],
@@ -10938,6 +11778,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Marburg-Biedenkopf/Perfstausee_Breidenstein/DEHE_PR_0044_Karte_Perfstausee Breidenstein.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Marburg-Biedenkopf/Perfstausee_Breidenstein/DEHE_PR_0044_Perfstausee_130401.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2949229,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:46:00.000Z"
+            }
         }
     },
     {
@@ -11245,6 +12111,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -11295,6 +12165,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Odenwaldkreis/Marbach-Stausee/DEHE_PR_0046_Karte_Marbach Stausee.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Odenwaldkreis/Marbach-Stausee/DEHE_PR_0046_Text_Marbachtalsperre_120401.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2951556,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:45:12.000Z"
+            }
         }
     },
     {
@@ -11655,6 +12551,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Offenbach/Schultheis-Weiher/DEHE_PR_0047_Schultheis-Weiher_Tiefenlinien_HLUG_2003.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Offenbach/Schultheis-Weiher/DEHE_PR_0047_Karte_Schultheisweiher.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Offenbach/Schultheis-Weiher/DEHE_PR_0047_Text_Schultheis-Weiher_110331.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2857807,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:49.000Z"
+            }
         }
     },
     {
@@ -11665,12 +12587,7 @@
         "_id": "54e88e163aa8ccc41e1ab83b",
         "openFrom": "2014-04-30T22:00:00.000Z",
         "openTo": "2014-08-30T22:00:00.000Z",
-        "messages": [
-            {
-                "date": "2015-02-21T23:00:00.000Z",
-                "message": "Am Hattsteinweiher treten Cyanobakterien auf. Deshalb rät das zuständige Gesundheitsamt vom Baden ab. Folgende Hinweise wurden Vorort aufgehängt: badeseen.hlug.de/fileadmin/dokumente/poster/Poster_Badeseen_2011_Cyano_final.pdf"
-            }
-        ],
+        "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der Hattsteinweiher bei Usingen ist der einzige Badesee im Taunus. Er ist vor ca. 90 Jahren durch die Aufschüttung eines Erdwalles entstanden und wird durch einen kleinen Bach gespeist. Das östliche Ufer ist zum Schwimmen freigegeben und besitzt einen abgetrennten Nichtschwimmerbereich. Man erreicht das öfters durch Algen getrübte Wasser über den an der Liegewiese angrenzenden Badestrand und über große Holzstege.",
         "measurements": [
@@ -12015,6 +12932,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Hochtaunuskreis/Hattsteinweiher/DEHE_PR_0023_Hattsteinweiher_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Hochtaunuskreis/Hattsteinweiher/DEHE_PR_0023_Karte_Hattsteinweiher.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Hochtaunuskreis/Hattsteinweiher/DEHE_PR_0023_Hattsteinweiher.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2818097,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:14.000Z"
+            }
         }
     },
     {
@@ -12362,6 +13305,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -12411,6 +13358,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Koenigsee_Zellhausen/DEHE_PR_0028_Koenigsee_Zellhausen_Tiefenlinien_HLUG_2003.JPG",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Koenigsee_Zellhausen/DEHE_PR_0028_Karte_Koenigsee_Zellhausen.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Koenigsee_Zellhausen/DEHE_PR_0028_Koenigsee_Zellhausen.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2874248,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 9.141,
+                "temp_min": 9.141,
+                "temp_max": 9.141,
+                "humidity": 98,
+                "pressure": 1007.48,
+                "wind": {
+                    "speed": 2.07,
+                    "deg": 309.004
+                },
+                "clouds": {
+                    "all": 100
+                },
+                "lastUpdated": "2015-03-10T13:45:13.000Z"
+            }
         }
     },
     {
@@ -12758,6 +13731,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -12807,6 +13784,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Aartal_See/DEHE_PR_0031_Karte_Aartal_See.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Aartal_See/DEHE_PR_0031_Text_Aartal See_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 6553218,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:15.000Z"
+            }
         }
     },
     {
@@ -13162,6 +14165,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -13211,6 +14218,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Krombachtalsperre/DEHE_PR_0034_Karte_Krombachtalsperre.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Krombachtalsperre/DEHE_PR_0034_Text_Krombachtalsperre_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2950159,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.591,
+                "temp_min": 10.591,
+                "temp_max": 10.591,
+                "humidity": 86,
+                "pressure": 1031.4,
+                "wind": {
+                    "speed": 4.27,
+                    "deg": 295.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:40:31.000Z"
+            }
         }
     },
     {
@@ -13566,6 +14599,10 @@
             {
                 "year": "2013",
                 "rating": 2
+            },
+            {
+                "year": "2014",
+                "rating": 2
             }
         ],
         "images": [
@@ -13615,6 +14652,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Dutenhofener_Badesee/DEHE_PR_0036_Dutenhofener_Badesee_Tiefenlinien_HLUG_2003.JPG",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Dutenhofener_Badesee/DEHE_PR_0036_Karte_Dutenhofener_Badesee.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Dutenhofener_Badesee/DEHE_PR_0036_Text_Dutenhofener See_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2809889,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:46:08.000Z"
+            }
         }
     },
     {
@@ -14002,6 +15065,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -14047,6 +15114,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Strandbad_Spessartblick/DEHE_PR_0039_Strandbad_Spessartblick_Tiefenlinien_HLUG_2003.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Strandbad_Spessartblick/DEHE_PR_0039_Karte_Strandbad_Spessartblick.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Strandbad_Spessartblick/DEHE_PR_0039_Text_Strandbad Spessartblick_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2950159,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.591,
+                "temp_min": 10.591,
+                "temp_max": 10.591,
+                "humidity": 86,
+                "pressure": 1031.4,
+                "wind": {
+                    "speed": 4.27,
+                    "deg": 295.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:40:31.000Z"
+            }
         }
     },
     {
@@ -14354,6 +15447,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -14390,6 +15487,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Silbersee/DEHE_PR_0049_Karte_Silbersee_Frielendorf.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Silbersee/DEHE_PR_0049_Frielendorf.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 6553271,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.766,
+                "temp_min": 8.766,
+                "temp_max": 8.766,
+                "humidity": 96,
+                "pressure": 992.4,
+                "wind": {
+                    "speed": 1.77,
+                    "deg": 291.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:59.000Z"
+            }
         }
     },
     {
@@ -14710,6 +15833,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -14760,6 +15887,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Vogelsbergkreis/Nieder-Mooser-See/DEHE_PR_0051_Nieder-Mooser-See_Tiefenlinien_HLUG_2003.JPG",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Vogelsbergkreis/Nieder-Mooser-See/DEHE_PR_0051_Karte_Nieder_Mooser_See.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Vogelsbergkreis/Nieder-Mooser-See/DEHE_PR_0051_Text_Nieder-Mooser-See_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2925141,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.766,
+                "temp_min": 8.766,
+                "temp_max": 8.766,
+                "humidity": 96,
+                "pressure": 992.4,
+                "wind": {
+                    "speed": 1.77,
+                    "deg": 291.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:35.000Z"
+            }
         }
     },
     {
@@ -15084,6 +16237,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -15135,6 +16292,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Vogelsbergkreis/Nidda-Stausee/DEHE_PR_0053_Karte_Nidda_Stausee.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Vogelsbergkreis/Nidda-Stausee/DEHE_PR_0053_Text_Niddatalsperre_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2836251,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 9.141,
+                "temp_min": 9.141,
+                "temp_max": 9.141,
+                "humidity": 98,
+                "pressure": 1007.48,
+                "wind": {
+                    "speed": 2.07,
+                    "deg": 309.004
+                },
+                "clouds": {
+                    "all": 100
+                },
+                "lastUpdated": "2015-03-10T13:44:33.000Z"
+            }
         }
     },
     {
@@ -15458,6 +16641,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -15495,6 +16682,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Diemeltalsperre_-_Strandbad_Heringhausen/DEHE_PR_0055_Karte_Diemeltalsperre_Strandbad_Heringhausen.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Diemeltalsperre_-_Strandbad_Heringhausen/DEHE_PR_0055_Strandbad_Heringhausen.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2817828,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 9.216,
+                "temp_min": 9.216,
+                "temp_max": 9.216,
+                "humidity": 100,
+                "pressure": 1012.83,
+                "wind": {
+                    "speed": 3.12,
+                    "deg": 321.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:45:29.000Z"
+            }
         }
     },
     {
@@ -15818,6 +17031,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -15857,6 +17074,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Edertalsperre_-_Strandbad_Waldeck/DEHE_PR_0060_Karte_Edertalsperre_Strandbad_Waldeck.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Edertalsperre_-_Strandbad_Waldeck/DEHE_PR_0060_Strandbad_Waldeck.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2815101,
+            "current": {
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "temp": 8.741,
+                "temp_min": 8.741,
+                "temp_max": 8.741,
+                "humidity": 97,
+                "pressure": 999.21,
+                "wind": {
+                    "speed": 2.32,
+                    "deg": 324.504
+                },
+                "clouds": {
+                    "all": 88
+                },
+                "lastUpdated": "2015-03-10T13:46:02.000Z"
+            }
         }
     },
     {
@@ -16177,6 +17420,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 2
             }
         ],
         "images": [],
@@ -16215,6 +17462,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Werratalsee_Suedufer/DEHE_PR_0062_Werratalsee_Suedufer_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Werratalsee_Suedufer/DEHE_PR_0062_Karte_Werratal_Suedufer.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Werratalsee_Suedufer/DEHE_PR_0062_Werratal_See_Sued.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2928967,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 7.4,
+                "temp_min": 7.4,
+                "temp_max": 7.4,
+                "humidity": 92,
+                "pressure": 1037.8,
+                "wind": {
+                    "speed": 2.57,
+                    "deg": 297.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T12:39:53.000Z"
+            }
         }
     },
     {
@@ -16458,6 +17731,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -16506,6 +17783,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Wetteraukreis/Gederner_See_Campingpark/DEHE_PR_0065_Gederner_See_Tiefenlinien_HLUG_2003.JPG",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Wetteraukreis/Gederner_See_Campingpark/DEHE_PR_0065_Gederner_See_Campingpark_Karte.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badegewaesserprofiltabelle.xls"
+        },
+        "weather": {
+            "openWeatherCityId": 2922124,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 9.141,
+                "temp_min": 9.141,
+                "temp_max": 9.141,
+                "humidity": 98,
+                "pressure": 1007.48,
+                "wind": {
+                    "speed": 2.07,
+                    "deg": 309.004
+                },
+                "clouds": {
+                    "all": 100
+                },
+                "lastUpdated": "2015-03-10T13:44:05.000Z"
+            }
         }
     },
     {
@@ -16821,6 +18124,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -16869,6 +18176,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Bergstrasse/Kaercher-Surfsee/DEHE_PR_0067_Kaercher-Surfsee_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Bergstrasse/Kaercher-Surfsee/DEHE_PR_0067_Karte_Kaercher_Surfsee.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Bergstrasse/Kaercher-Surfsee/DEHE_PR_0067_Kaercher-Surfsee.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2949367,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:44:31.000Z"
+            }
         }
     },
     {
@@ -17184,6 +18517,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -17223,6 +18560,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Fulda/Guckaisee/DEHE_PR_0008_Guckaisee_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Fulda/Guckaisee/DEHE_PR_0008_Karte_Guckaisee.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Fulda/Guckaisee/DEHE_PR_0008_Guckaisee.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2852656,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.766,
+                "temp_min": 8.766,
+                "temp_max": 8.766,
+                "humidity": 96,
+                "pressure": 992.4,
+                "wind": {
+                    "speed": 1.77,
+                    "deg": 291.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:38.000Z"
+            }
         }
     },
     {
@@ -17570,6 +18933,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -17619,6 +18986,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Klein-Krotzenburg/DEHE_PR_0025_Badesee_Klein-Krotzenburg_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Klein-Krotzenburg/DEHE_PR_0025_Karte_Badesee_Klein_Krotzenburg.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Klein-Krotzenburg/DEHE_PR_0025_Text_Klein-Krotzenburg_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2950159,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.591,
+                "temp_min": 10.591,
+                "temp_max": 10.591,
+                "humidity": 86,
+                "pressure": 1031.4,
+                "wind": {
+                    "speed": 4.27,
+                    "deg": 295.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:40:31.000Z"
+            }
         }
     },
     {
@@ -17974,6 +19367,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -18023,6 +19420,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Badesee_Mainflingen/DEHE_PR_0027_Karte_Badesee_Mainflingen.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Badesee_Mainflingen/DEHE_PR_0027_Mainflingen.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2874248,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 9.141,
+                "temp_min": 9.141,
+                "temp_max": 9.141,
+                "humidity": 98,
+                "pressure": 1007.48,
+                "wind": {
+                    "speed": 2.07,
+                    "deg": 309.004
+                },
+                "clouds": {
+                    "all": 100
+                },
+                "lastUpdated": "2015-03-10T13:45:13.000Z"
+            }
         }
     },
     {
@@ -18378,6 +19801,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -18426,6 +19853,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Strandbad_Nieder-Roden/DEHE_PR_0030_Karte_Strandbad_Nieder_Roden.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Kreis_Offenbach/Strandbad_Nieder-Roden/DEHE_PR_0030_Nieder-Roden.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 3336893,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:36:04.000Z"
+            }
         }
     },
     {
@@ -18789,6 +20242,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -18837,6 +20294,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Limburg-Weilburg/Seeweiher_Mengerskirchen/DEHE_PR_0037_Seeweiher_Mengerskirchen_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Limburg-Weilburg/Seeweiher_Mengerskirchen/DEHE_PR_0037_Karte_Seeweiher_Mengerskirchen.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Limburg-Weilburg/Seeweiher_Mengerskirchen/DEHE_PR_0037_Seeweiher_Mengerskirchen_130401.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2871953,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:46:14.000Z"
+            }
         }
     },
     {
@@ -19144,6 +20627,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -19188,6 +20675,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Darmstadt/Grube_Prinz_von_Hessen/DEHE_PR_0004_Grube_Prinz_von_Hessen_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Darmstadt/Grube_Prinz_von_Hessen/DEHE_PR_0004_Karte_Grube_Prinz_von_Hessen.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Darmstadt/Grube_Prinz_von_Hessen/DEHE_PR_0004_Text_Grube Prinz von Hessen_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2938913,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:45:16.000Z"
+            }
         }
     },
     {
@@ -19495,6 +21008,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -19540,6 +21057,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Badesee_Walldorf/DEHE_PR_0015_Badesee_Walldorf_Tiefenlinien_HLUG_2006.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Badesee_Walldorf/DEHE_PR_0015_Karte_Badesee_Walldorf.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Badesee_Walldorf/DEHE_PR_0015_Text_Badesee Walldorf_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2869286,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:45:47.000Z"
+            }
         }
     },
     {
@@ -19903,6 +21446,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -19952,6 +21499,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Riedsee__Leeheim/DEHE_PR_0017_Riedsee Leeheim_Tiefenlinien_HLUG_2003.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Riedsee__Leeheim/DEHE_PR_0017_Karte_Riedsee_Leeheim.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Riedsee__Leeheim/DEHE_PR_0017_Riedsee_Leeheim.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 3272941,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:37:18.000Z"
+            }
         }
     },
     {
@@ -20259,6 +21832,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -20307,6 +21884,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Schwimmbad_Vogel_Geinsheim/DEHE_PR_0019_Schwimmbad_Vogel_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Schwimmbad_Vogel_Geinsheim/DEHE_PR_0019_Karte_Schwimmbad_Vogel_Geinsheim.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Schwimmbad_Vogel_Geinsheim/DEHE_PR_0019_Text_Vogel Geinsheim_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 6553177,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:45:46.000Z"
+            }
         }
     },
     {
@@ -20614,6 +22217,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -20662,6 +22269,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Baerensee/DEHE_PR_0040_Baerensee_Tiefenlinien_HLUG_2008.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Baerensee/DEHE_PR_0040_Karte_Baerensee.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Baerensee/DEHE_PR_0040_Text_Baerensee_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2911007,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:46:22.000Z"
+            }
         }
     },
     {
@@ -21033,6 +22666,10 @@
             {
                 "year": "2013",
                 "rating": 2
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -21081,6 +22718,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Wissmarer_See/DEHE_PR_0013_Wissmarer_See_Tiefenlinien_HLUG_2003.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Wissmarer_See/DEHE_PR_0013_Karte_Wissmarer_See.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Wissmarer_See/DEHE_PR_0013_Wissmarer_See.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2883831,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:44:58.000Z"
+            }
         }
     },
     {
@@ -21436,6 +23099,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -21483,11 +23150,37 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Stauweiher_Ewersbach/DEHE_PR_0032_Stauweiher_Ewersbach_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Stauweiher_Ewersbach/DEHE_PR_0032_Karte_Stauweiher_Ewersbach.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Stauweiher_Ewersbach/DEHE_PR_0032_Text_Stauweiher Ewersbach_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2928305,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:46:16.000Z"
+            }
         }
     },
     {
         "name": "Ulmbachtalsperre",
-        "hlugurl": "http://badeseen.hlug.de/badegewaesser/lahn-dill-kreis/ulmbachtalsperre.html",
+        "hlugurl": "http://badeseen.hlug.de/badegewaesser/lahn-dill-kreis/ulmbachtalsperre.html?tx_hlugbadeseen_pi1%5Baction%5D=showStammdaten&tx_hlugbadeseen_pi1%5Bcontroller%5D=BadeseeStammdaten&cHash=9781f6cf69bfc3bf2e9425d4fafecb93",
         "latitude": "50.602400",
         "longitude": "8.268500",
         "_id": "54e88e163aa8ccc41e1ab855",
@@ -21863,6 +23556,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Ulmbachtalsperre/DEHE_PR_0035_Karte_Ulmbachtalsperre.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Ulmbachtalsperre/DEHE_PR_0035_Text_Ulmbachtalsperre_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 6553222,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:50.000Z"
+            }
         }
     },
     {
@@ -22186,6 +23905,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -22223,6 +23946,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Diemeltalsperre_-_Strandbad_Helmighausen/DEHE_PR_0056_Karte_Diemeltalsperre_Strandbad_Helmighausen.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Diemeltalsperre_-_Strandbad_Helmighausen/DEHE_PR_0056_Strandbad_Helminghausen.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2817828,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 9.216,
+                "temp_min": 9.216,
+                "temp_max": 9.216,
+                "humidity": 100,
+                "pressure": 1012.83,
+                "wind": {
+                    "speed": 3.12,
+                    "deg": 321.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:45:40.000Z"
+            }
         }
     },
     {
@@ -22378,6 +24127,10 @@
             {
                 "year": "2013",
                 "rating": null
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -22421,6 +24174,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Beisefoerther_See/DEHE_PR_0068_B300_Naturbadesee_Beisefoerth_NUT_ALL_240112.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Beisefoerther_See/DEHE_PR_0068_Naturbadesee_Beisefoerth.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2874039,
+            "current": {
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "temp": 8.491,
+                "temp_min": 8.491,
+                "temp_max": 8.491,
+                "humidity": 97,
+                "pressure": 999.78,
+                "wind": {
+                    "speed": 2.12,
+                    "deg": 315.504
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:41.000Z"
+            }
         }
     },
     {
@@ -22728,6 +24507,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -22776,6 +24559,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Darmstadt/Arheilger_Muehlchen/DEHE_PR_0003_Arheilger_Muehlchen_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Darmstadt/Arheilger_Muehlchen/DEHE_PR_0003_Karte_Arheilger_Muehlchen.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Darmstadt/Arheilger_Muehlchen/DEHE_PR_0003_Text_Arheilger_Muehlchen_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2938913,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:45:38.000Z"
+            }
         }
     },
     {
@@ -23083,6 +24892,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -23130,6 +24943,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Darmstadt-Dieburg/Niedernhausen/DEHE_PR_0007_Karte_Badesee_Niedernhausen.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Darmstadt-Dieburg/Niedernhausen/DEHE_PR_0007_Text_Badesee Niedernhausen_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2862173,
+            "current": {
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 10.516,
+                "temp_min": 10.516,
+                "temp_max": 10.516,
+                "humidity": 96,
+                "pressure": 1019,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 316.504
+                },
+                "clouds": {
+                    "all": 80
+                },
+                "lastUpdated": "2015-03-10T13:46:22.000Z"
+            }
         }
     },
     {
@@ -23445,6 +25284,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -23480,6 +25323,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Meinhardsee/DEHE_PR_0063_Meinhardsee_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Meinhardsee/DEHE_PR_0063_Karte_Meinhardsee.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Werra-Meissner-Kreis/Meinhardsee/DEHE_PR_0063_Meinhardsee.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2865466,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 7.4,
+                "temp_min": 7.4,
+                "temp_max": 7.4,
+                "humidity": 92,
+                "pressure": 1037.7,
+                "wind": {
+                    "speed": 2.57,
+                    "deg": 297.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T12:37:29.000Z"
+            }
         }
     },
     {
@@ -23803,6 +25672,10 @@
             {
                 "year": "2013",
                 "rating": 2
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [],
@@ -23840,6 +25713,32 @@
             "bathymetricChart": null,
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Edertalsperre_-_Asel_Sued/DEHE_PR_0059_Karte_Edertalsperre - Asel_Sued.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Waldeck-Frankenberg/Edertalsperre_-_Asel_Sued/DEHE_PR_0059_Asel_Sued.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2816769,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 6.366,
+                "temp_min": 6.366,
+                "temp_max": 6.366,
+                "humidity": 98,
+                "pressure": 987.05,
+                "wind": {
+                    "speed": 1.32,
+                    "deg": 304.504
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:39.000Z"
+            }
         }
     },
     {
@@ -24147,6 +26046,10 @@
             {
                 "year": "2013",
                 "rating": 1
+            },
+            {
+                "year": "2014",
+                "rating": 1
             }
         ],
         "images": [
@@ -24192,6 +26095,32 @@
             "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Waldsee_Raunheim/DEHE_PR_0016_Waldsee_Raunheim_Tiefenlinien_HLUG_2010.jpg",
             "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Waldsee_Raunheim/DEHE_PR_0016_Karte_Waldsee_Raunheim.pdf",
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Gross-Gerau/Waldsee_Raunheim/DEHE_PR_0016_Text_Waldsee Raunheim_101201.pdf"
+        },
+        "weather": {
+            "openWeatherCityId": 2849913,
+            "current": {
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "temp": 8.866,
+                "temp_min": 8.866,
+                "temp_max": 8.866,
+                "humidity": 98,
+                "pressure": 1005.7,
+                "wind": {
+                    "speed": 1.97,
+                    "deg": 312.004
+                },
+                "clouds": {
+                    "all": 92
+                },
+                "lastUpdated": "2015-03-10T13:45:46.000Z"
+            }
         }
     }
 ]
