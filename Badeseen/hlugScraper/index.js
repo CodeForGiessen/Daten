@@ -265,7 +265,7 @@ function processLakeProfileQ(url){
         $('.hidden-print #more-images div.detailimg').each(function(){
             var div = $(this);
             var link =  exports.rooturl + div.children().eq(0).attr('href');
-            var copyright =  exports.rooturl + div.children().eq(2).text();
+            var copyright =  exports.rooturl + div.children().eq(2).text().trim();
 
             var image = {
                 'src': link,
@@ -278,30 +278,30 @@ function processLakeProfileQ(url){
 
         var table = $('table.messdaten tr');
         result.city = table.eq(2).children().eq(1).text();
-        result.heightAboveSeaLevel = parseInt(table.eq(3).children().eq(1).text());
+        result.heightAboveSeaLevel = parseInt(table.eq(3).children().eq(1).text().trim());
         result.areaHa = parseFloat(table.eq(4).children().eq(1).text().replace(',','.'));
         result.depthMax = parseFloat(table.eq(5).children().eq(1).text().replace(',','.'));
         result.depthAvg = parseFloat(table.eq(6).children().eq(1).text().replace(',','.'));
-        result.lakeType = table.eq(7).children().eq(1).text();
+        result.lakeType = table.eq(7).children().eq(1).text().trim();
         result.extracurricularActivity =  mapExtraCurricularActivities(table.eq(8).children().eq(1).text().split(','));
         result.blueGreenAlgeaRisk = table.eq(9).children().eq(1).text();
         var operatortemp = table.eq(11).children().eq(1).html().split('<br>');
         result.operator = {
-            'name': $('<textarea />').html(operatortemp[0]).text(),
-            'street': $('<textarea />').html(operatortemp[1]).text(),
-            'zipcodeCity': $('<textarea />').html(operatortemp[2]).text(),
-            'email': table.eq(12).children().eq(1).text(),
-            'telephone': table.eq(13).children().eq(1).text(),
-            'fax': table.eq(14).children().eq(1).text(),
-            'website': table.eq(15).children().eq(1).text()
+            'name': $('<textarea />').html(operatortemp[0]).text().trim(),
+            'street': $('<textarea />').html(operatortemp[1]).text().trim(),
+            'zipcodeCity': $('<textarea />').html(operatortemp[2]).text().trim(),
+            'email': table.eq(12).children().eq(1).text().trim(),
+            'telephone': table.eq(13).children().eq(1).text().trim(),
+            'fax': table.eq(14).children().eq(1).text().trim(),
+            'website': table.eq(15).children().eq(1).text().trim()
         };
         result.appropriateAuthority = {
-            'name': table.eq(17).children().eq(1).text(),
-            'address': table.eq(18).children().eq(1).text(),
-            'addressAdditional': table.eq(19).children().eq(1).text(),
-            'street': table.eq(20).children().eq(1).text(),
-            'zipcodeCity': table.eq(21).children().eq(1).text(),
-            'telephone': table.eq(22).children().eq(1).text()
+            'name': table.eq(17).children().eq(1).text().trim(),
+            'address': table.eq(18).children().eq(1).text().trim(),
+            'addressAdditional': table.eq(19).children().eq(1).text().trim(),
+            'street': table.eq(20).children().eq(1).text().trim(),
+            'zipcodeCity': table.eq(21).children().eq(1).text().trim(),
+            'telephone': table.eq(22).children().eq(1).text().trim()
         };
         var generalInformation =  $('a:contains(\'Badegewässerprofil\')').eq(0).attr('href') || null; 
         var landUseMap =  $('a:contains(\'Flächennutzung\')').eq(0).attr('href') || null; 

@@ -5,8 +5,8 @@
         "latitude": "49.686700",
         "longitude": "8.604200",
         "_id": "54e88e163aa8ccc41e1ab81c",
-        "openFrom": "2014-04-30T22:00:00.000Z",
-        "openTo": "2014-09-29T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-09-29T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der Baggersee ist gefüllt mit grünlich-klarem Wasser. Vom Ufer geht es gleich steil ins kühle Nass. Der See ist nur für Schwimmer geeignet! In der Nähe liegt ein Wohngebiet, die Autobahn und Sportanlagen.",
@@ -498,25 +498,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 5.802,
+                "temp_min": 5.802,
+                "temp_max": 5.802,
+                "humidity": 86,
+                "pressure": 1014.28,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.2,
+                    "deg": 21.5022
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:44:58.000Z"
+                "lastUpdated": "2015-03-16T20:07:10.000Z"
             }
         }
     },
@@ -526,8 +526,8 @@
         "latitude": "49.594000",
         "longitude": "8.451700",
         "_id": "54e88e163aa8ccc41e1ab81d",
-        "openFrom": "2014-04-30T22:00:00.000Z",
-        "openTo": "2014-09-29T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-14T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Dieser mit 3,3 ha relativ kleine See liegt in einem Naturschutzgebiet der Rheinauen. Er gehört mit einem Freibad und Hallenbad zu den Biedensand-Bädern.",
@@ -1028,25 +1028,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 5.802,
+                "temp_min": 5.802,
+                "temp_max": 5.802,
+                "humidity": 86,
+                "pressure": 1014.28,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.2,
+                    "deg": 21.5022
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:45:49.000Z"
+                "lastUpdated": "2015-03-16T20:08:26.000Z"
             }
         }
     },
@@ -1056,8 +1056,8 @@
         "latitude": "49.873100",
         "longitude": "8.668300",
         "_id": "54e88e163aa8ccc41e1ab81e",
-        "openFrom": "2014-05-17T22:00:00.000Z",
-        "openTo": "2014-09-13T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-14T22:00:00.000Z",
         "messages": [
             {
                 "date": "2014-09-08T22:00:00.000Z",
@@ -1403,10 +1403,10 @@
             "name": "Eigenbetrieb Bäder",
             "street": "Frankfurter Straße 71",
             "zipcodeCity": "64293 Darmstadt",
-            "email": "sportamt@darmstadt.de ",
+            "email": "sportamt@darmstadt.de",
             "telephone": "06151 132974 und 132972",
             "fax": "06151 132940",
-            "website": "www.baeder.darmstadt.de "
+            "website": "www.baeder.darmstadt.de"
         },
         "appropriateAuthority": {
             "name": "Gesundheitsamt Darmstadt-Dieburg",
@@ -1426,25 +1426,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 9.188,
+                "temp_min": 9.188,
+                "temp_max": 9.188,
+                "humidity": 71,
+                "pressure": 1014.29,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.63,
+                    "deg": 59.0003
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 20
                 },
-                "lastUpdated": "2015-03-10T13:45:16.000Z"
+                "lastUpdated": "2015-03-16T19:24:30.000Z"
             }
         }
     },
@@ -1454,8 +1454,8 @@
         "latitude": "49.769600",
         "longitude": "8.587500",
         "_id": "54e88e163aa8ccc41e1ab81f",
-        "openFrom": "2014-05-14T22:00:00.000Z",
-        "openTo": "2014-09-14T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-14T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Die Kiesbagger hinterließen hier eine 13 ha große Wasserfläche. Der See ist von leicht grünlicher Farbe, dient als Fischgewässer und ist als Vogelschutzgebiet ausgewiesen. Der See ist vom Ufer her überall zugänglich und besitzt am westlichen Ufer einen Badestrand.",
@@ -1811,25 +1811,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
-                        "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "sky is clear",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 4.895,
+                "temp_min": 4.895,
+                "temp_max": 4.895,
+                "humidity": 86,
+                "pressure": 1015.14,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.01,
+                    "deg": 46.0042
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 8
                 },
-                "lastUpdated": "2015-03-10T13:46:28.000Z"
+                "lastUpdated": "2015-03-16T20:05:46.000Z"
             }
         }
     },
@@ -1839,8 +1839,8 @@
         "latitude": "50.565300",
         "longitude": "8.625000",
         "_id": "54e88e163aa8ccc41e1ab820",
-        "openFrom": "2014-05-31T22:00:00.000Z",
-        "openTo": "2014-08-30T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der 8,8 ha große See hat meist sehr sauberes Wasser. Er wird wegen einer Wasserskianlage besonders von Wasserski- und Wakeboard-Fahrern geschätzt, jedoch besitzt er am südöstlichen Ufer auch eine Liegewiese von der man zum Baden ans Wasser gelangt.",
@@ -2196,25 +2196,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:39:58.000Z"
+                "lastUpdated": "2015-03-16T20:08:29.000Z"
             }
         }
     },
@@ -2224,8 +2224,8 @@
         "latitude": "50.455300",
         "longitude": "8.905500",
         "_id": "54e88e163aa8ccc41e1ab821",
-        "openFrom": "2014-05-31T22:00:00.000Z",
-        "openTo": "2014-08-30T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der See liegt im Zentrum eines Naherholungsgebietes. Der Baggersee ist bei Wassersportfreunden besonders beliebt. Die hessischen Segler haben daher hier ihr Leistungszentrum eingerichtet.",
@@ -2598,25 +2598,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:46:24.000Z"
+                "lastUpdated": "2015-03-16T20:08:40.000Z"
             }
         }
     },
@@ -2626,8 +2626,8 @@
         "latitude": "50.529700",
         "longitude": "8.814500",
         "_id": "54e88e163aa8ccc41e1ab822",
-        "openFrom": "2014-04-30T22:00:00.000Z",
-        "openTo": "2014-08-30T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der kleine Teich liegt idyllisch im Wald am Stadtrand von Lich. Das Wasser ist etwas getrübt durch den Schlamm am Grund des Sees. 6000 m² seiner 3,6 ha Wasserfläche sind als Schwimmbereich geeignet. ",
@@ -3001,8 +3001,8 @@
             "zipcodeCity": "35423 Lich",
             "email": "info@sek-lich.de",
             "telephone": "06404/668661",
-            "fax": " ",
-            "website": " www.sek-lich.de"
+            "fax": "",
+            "website": "www.sek-lich.de"
         },
         "appropriateAuthority": {
             "name": "Gesundheitsamt Landkreis Gießen",
@@ -3018,29 +3018,29 @@
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Waldschwimmbad_Lich/DEHE_PR_0011_Licher_Waldschwimmbad.pdf"
         },
         "weather": {
-            "openWeatherCityId": 2878166,
+            "openWeatherCityId": 0,
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "sky is clear",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 2.775,
+                "temp_min": 2.775,
+                "temp_max": 2.775,
+                "humidity": 84,
+                "pressure": 1003.68,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.46,
+                    "deg": 71.5011
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 8
                 },
-                "lastUpdated": "2015-03-10T13:38:23.000Z"
+                "lastUpdated": "2015-03-16T20:08:30.000Z"
             }
         }
     },
@@ -3050,8 +3050,8 @@
         "latitude": "50.618000",
         "longitude": "8.672600",
         "_id": "54e88e163aa8ccc41e1ab823",
-        "openFrom": "2014-05-31T22:00:00.000Z",
-        "openTo": "2014-08-30T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der Launsbacher See besteht aus 3 relativ flachen Becken einer ehemaligen Kiesgrube und liegt zwischen Lahn und Autobahn. Der mittlere Teil wird zum Baden genutzt und besitzt durch seine vielen Wasserpflanzen meist klares Wasser.",
@@ -3402,34 +3402,34 @@
             "telephone": "0641 9390-1422"
         },
         "downloads": {
-            "bathymetricChart": "http://www.badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Launsbacher_See_Tiefenlinien_HLUG_2003.jpg",
-            "landUseMap": "http://www.badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Karte_Launsbacher_See.pdf",
-            "generalInformation": "http://www.badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Text_Launsbacher_See_110415.pdf"
+            "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Launsbacher_See_Tiefenlinien_HLUG_2003.jpg",
+            "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Karte_Launsbacher_See.pdf",
+            "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Giessen/Launsbacher_See/DEHE_PR_0012_Text_Launsbacher_See_110415.pdf"
         },
         "weather": {
             "openWeatherCityId": 2883831,
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "sky is clear",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 2.775,
+                "temp_min": 2.775,
+                "temp_max": 2.775,
+                "humidity": 84,
+                "pressure": 1003.68,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.46,
+                    "deg": 71.5011
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 8
                 },
-                "lastUpdated": "2015-03-10T13:44:58.000Z"
+                "lastUpdated": "2015-03-16T20:08:42.000Z"
             }
         }
     },
@@ -3439,8 +3439,8 @@
         "latitude": "49.743700",
         "longitude": "8.479400",
         "_id": "54e88e163aa8ccc41e1ab824",
-        "openFrom": "2014-05-10T22:00:00.000Z",
-        "openTo": "2014-09-13T22:00:00.000Z",
+        "openFrom": "2015-05-08T22:00:00.000Z",
+        "openTo": "2015-09-19T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "SEin Baggersee mit 4,5 ha Wasserfläche. Er befindet sich unmittelbar vor dem Rheinhochwasserdamm der Weschnitz am Ortsrand von Gernsheim. Das Ufer ist teilweise steil, jedoch am südlich gelegenen Badestrand relativ flach und deshalb dort eher für Kinder geeignet.",
@@ -3804,25 +3804,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 5.475,
+                "temp_min": 5.475,
+                "temp_max": 5.475,
+                "humidity": 83,
+                "pressure": 1016.16,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.51,
+                    "deg": 37.0011
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 24
                 },
-                "lastUpdated": "2015-03-10T13:44:29.000Z"
+                "lastUpdated": "2015-03-16T20:06:04.000Z"
             }
         }
     },
@@ -3832,8 +3832,8 @@
         "latitude": "49.993700",
         "longitude": "8.453600",
         "_id": "54e88e163aa8ccc41e1ab825",
-        "openFrom": "2014-05-01T22:00:00.000Z",
-        "openTo": "2014-08-30T22:00:00.000Z",
+        "openFrom": "2015-05-01T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Hier gibt es 3,4 Hektar See im Wald, denn 1969 wurde zum Autobahnbau Sand gebaggert. Das Ufer ist flach und das Wasser durch die Belüftungsanlagen meist klar. Man erreicht das Wasser über einen Sandstrand.",
@@ -4182,25 +4182,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 5.802,
+                "temp_min": 5.802,
+                "temp_max": 5.802,
+                "humidity": 86,
+                "pressure": 1014.28,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.2,
+                    "deg": 21.5022
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:38:27.000Z"
+                "lastUpdated": "2015-03-16T20:08:42.000Z"
             }
         }
     },
@@ -4556,25 +4556,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.766,
-                "temp_min": 8.766,
-                "temp_max": 8.766,
-                "humidity": 96,
-                "pressure": 992.4,
+                "temp": 2.47,
+                "temp_min": 2.47,
+                "temp_max": 2.47,
+                "humidity": 87,
+                "pressure": 989.77,
                 "wind": {
-                    "speed": 1.77,
-                    "deg": 291.004
+                    "speed": 1.41,
+                    "deg": 85.0042
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:44:54.000Z"
+                "lastUpdated": "2015-03-16T20:08:32.000Z"
             }
         }
     },
@@ -4945,25 +4945,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 802,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "scattered clouds",
+                        "icon": "03n"
                     }
                 ],
-                "temp": 8.766,
-                "temp_min": 8.766,
-                "temp_max": 8.766,
-                "humidity": 96,
-                "pressure": 992.4,
+                "temp": 5.877,
+                "temp_min": 5.877,
+                "temp_max": 5.877,
+                "humidity": 78,
+                "pressure": 989.32,
                 "wind": {
-                    "speed": 1.77,
-                    "deg": 291.004
+                    "speed": 2.85,
+                    "deg": 98.0022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 44
                 },
-                "lastUpdated": "2015-03-10T13:45:31.000Z"
+                "lastUpdated": "2015-03-16T20:08:32.000Z"
             }
         }
     },
@@ -4973,8 +4973,8 @@
         "latitude": "51.291700",
         "longitude": "9.502700",
         "_id": "54e88e163aa8ccc41e1ab828",
-        "openFrom": "2014-05-14T22:00:00.000Z",
-        "openTo": "2014-09-04T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-05T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "In den sechziger Jahren begann man in der Fuldaaue in der Nähe des Ortsteils Waldau nach Kies und Sand zu baggern. Mit Grundwasser gefüllt entstand dieser Auesee mit einer Ausdehnung von 34 ha (10 ha als Naturschutzgebiet ausgewiesen) und einer Wassertiefe von 3 - 6 m. 1980 wurde die von Badestränden und Rasenböschungen umgebene Anlage fertiggestellt, die seitdem der stadtnahen Erholung dient. Hunde müssen an die Leine und dürfen nicht ans Ufer.",
@@ -5310,25 +5310,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.466,
-                "temp_min": 8.466,
-                "temp_max": 8.466,
-                "humidity": 99,
-                "pressure": 1009.1,
+                "temp": 4.92,
+                "temp_min": 4.92,
+                "temp_max": 4.92,
+                "humidity": 85,
+                "pressure": 1007.52,
                 "wind": {
-                    "speed": 2.17,
-                    "deg": 319.004
+                    "speed": 2.56,
+                    "deg": 106.004
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:40:21.000Z"
+                "lastUpdated": "2015-03-16T20:03:14.000Z"
             }
         }
     },
@@ -5338,8 +5338,8 @@
         "latitude": "50.018500",
         "longitude": "8.620900",
         "_id": "54e88e163aa8ccc41e1ab829",
-        "openFrom": "2014-04-25T22:00:00.000Z",
-        "openTo": "2014-09-13T22:00:00.000Z",
+        "openFrom": "2015-04-24T22:00:00.000Z",
+        "openTo": "2015-09-12T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Dieser Baggersee beeindruckt schon durch seine Größe: 100 Hektar Wasserfläche stehen hier den Erholung suchenden Bewohnern des Rhein-Main-Gebietes zum sommerlichen Freizeitvergnügen zur Verfügung. Der See ist von Wald umgeben, der zu Spaziergängen oder Radtouren einlädt und die Nähe zur Großstadt Frankfurt leicht vergessen lässt. Odenwald, Spessart und Taunus sind nicht weit entfernt. Da die Ufer steil sind, ist das Wasser nur über den Badestrand zugänglich.",
@@ -5745,25 +5745,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 5.802,
+                "temp_min": 5.802,
+                "temp_max": 5.802,
+                "humidity": 86,
+                "pressure": 1014.28,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.2,
+                    "deg": 21.5022
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:37:43.000Z"
+                "lastUpdated": "2015-03-16T20:08:39.000Z"
             }
         }
     },
@@ -5773,8 +5773,8 @@
         "latitude": "50.058700",
         "longitude": "8.728100",
         "_id": "54e88e163aa8ccc41e1ab82a",
-        "openFrom": "2014-04-25T22:00:00.000Z",
-        "openTo": "2014-09-13T22:00:00.000Z",
+        "openFrom": "2015-04-24T22:00:00.000Z",
+        "openTo": "2015-09-12T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Dies ist ein kleiner See von 0,3 ha Wasserfläche zwischen Neu-Isenburg und Gravenbruch für Vereinsmitglieder des Freikörperkultur-Vereins. Für Gäste gibt es Möglichkeiten zur Tagesmitgliedschaft.",
@@ -6166,25 +6166,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:44:57.000Z"
+                "lastUpdated": "2015-03-16T20:08:34.000Z"
             }
         }
     },
@@ -6194,8 +6194,8 @@
         "latitude": "50.654000",
         "longitude": "8.163200",
         "_id": "54e88e163aa8ccc41e1ab82b",
-        "openFrom": "2014-05-18T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Auf dem Hochplateau des Westerwaldes, an der Grenze zu Rheinland-Pfalz und NRW liegt auf 530 m Höhe inmitten von Wäldern und Wiesen dieser 9,6 ha große klare See, der bereits 1711 als Wasserspeicher und Fischteich aufgestaut wurde.",
@@ -6580,7 +6580,7 @@
             "email": "info@driedorf.de",
             "telephone": "02775 458",
             "fax": "02775 578617",
-            "website": "http://www.driedorf.de/tourismus/heisterberger-weiher.html "
+            "website": "http://www.driedorf.de/tourismus/heisterberger-weiher.html"
         },
         "appropriateAuthority": {
             "name": "Gesundheitsamt Lahn-Dill-Kreis",
@@ -6591,34 +6591,34 @@
             "telephone": "06441 407-1616"
         },
         "downloads": {
-            "bathymetricChart": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Heisterberger_Weiher/DEHE_PR_0033_Heisterberger_Weiher_Tiefenlinien_HLUG_2010.jpg",
-            "landUseMap": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Heisterberger_Weiher/DEHE_PR_0033_Karte_Heisterberger_Weiher.pdf",
-            "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Heisterberger_Weiher/DEHE_PR_0033_Text_Heisterberger Weiher_101201.pdf"
+            "bathymetricChart": "http://www.badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Heisterberger_Weiher/DEHE_PR_0033_Heisterberger_Weiher_Tiefenlinien_HLUG_2010.jpg",
+            "landUseMap": "http://www.badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Heisterberger_Weiher/DEHE_PR_0033_Karte_Heisterberger_Weiher.pdf",
+            "generalInformation": "http://www.badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Heisterberger_Weiher/DEHE_PR_0033_Text_Heisterberger Weiher_101201.pdf"
         },
         "weather": {
             "openWeatherCityId": 2934965,
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:42:45.000Z"
+                "lastUpdated": "2015-03-16T20:08:31.000Z"
             }
         }
     },
@@ -6628,8 +6628,8 @@
         "latitude": "50.551800",
         "longitude": "8.190700",
         "_id": "54e88e163aa8ccc41e1ab82c",
-        "openFrom": "2014-05-02T22:00:00.000Z",
-        "openTo": "2014-09-06T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-09-04T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der kleine Stausee - 2,1 ha Wasserfläche - wurde als Erholungsgebiet angelegt. Das Wasser ist durch Algenwachstum und einer oberhalb liegenden Tongrube teilweise getrübt. In der Umgebung findet man Wald, Wiesen und Felder. Der See liegt zwischen Winkels und Probbach.",
@@ -7041,25 +7041,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 2.345,
+                "temp_min": 2.345,
+                "temp_max": 2.345,
+                "humidity": 84,
+                "pressure": 1002.58,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.26,
+                    "deg": 60.5042
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:46:14.000Z"
+                "lastUpdated": "2015-03-16T20:08:38.000Z"
             }
         }
     },
@@ -7406,29 +7406,29 @@
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Main-Kinzig-Kreis/Strandbad_Rodenbach/DEHE_PR_0043_Strandbad_Rodenbach.pdf"
         },
         "weather": {
-            "openWeatherCityId": 2862944,
+            "openWeatherCityId": 2846063,
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 802,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "scattered clouds",
+                        "icon": "03n"
                     }
                 ],
-                "temp": 9.141,
-                "temp_min": 9.141,
-                "temp_max": 9.141,
-                "humidity": 98,
-                "pressure": 1007.48,
+                "temp": 5.952,
+                "temp_min": 5.952,
+                "temp_max": 5.952,
+                "humidity": 82,
+                "pressure": 1003.51,
                 "wind": {
-                    "speed": 2.07,
-                    "deg": 309.004
+                    "speed": 2.35,
+                    "deg": 67.0022
                 },
                 "clouds": {
-                    "all": 100
+                    "all": 36
                 },
-                "lastUpdated": "2015-03-10T13:40:40.000Z"
+                "lastUpdated": "2015-03-16T20:08:31.000Z"
             }
         }
     },
@@ -7438,8 +7438,8 @@
         "latitude": "50.759700",
         "longitude": "8.739400",
         "_id": "54e88e163aa8ccc41e1ab82e",
-        "openFrom": "2014-04-30T22:00:00.000Z",
-        "openTo": "2014-09-13T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-09-05T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Eine Kies- und Sandgrube mit einer Ausdehnung von 15 ha füllte sich mit Wasser. Der so entstandene klare Baggersee dient nun als Naherholungsgebiet dem sommerlichem Badevergnügen. Es gibt ein vielfältiges Freizeitangebot bis hin zu einer Wasserskianlage. Seine Wasserqualität gehört zu den besten aller hessischen Seen. Eisen- und Autobahn sind nicht weit entfernt.",
@@ -7829,25 +7829,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 802,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "scattered clouds",
+                        "icon": "03n"
                     }
                 ],
-                "temp": 8.291,
-                "temp_min": 8.291,
-                "temp_max": 8.291,
-                "humidity": 90,
-                "pressure": 978.14,
+                "temp": 6.627,
+                "temp_min": 6.627,
+                "temp_max": 6.627,
+                "humidity": 69,
+                "pressure": 976.92,
                 "wind": {
-                    "speed": 1.72,
-                    "deg": 276.504
+                    "speed": 5.1,
+                    "deg": 123.502
                 },
                 "clouds": {
-                    "all": 88
+                    "all": 44
                 },
-                "lastUpdated": "2015-03-10T13:44:23.000Z"
+                "lastUpdated": "2015-03-16T20:08:35.000Z"
             }
         }
     },
@@ -7857,8 +7857,8 @@
         "latitude": "51.065000",
         "longitude": "9.242200",
         "_id": "54e88e163aa8ccc41e1ab82f",
-        "openFrom": "2014-05-15T22:00:00.000Z",
-        "openTo": "2014-09-29T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-09-29T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Zwischen Altenburg und Kuhberg, in der \"Schwalmpforte\", liegt der 10 ha große Naturbadesee Stockelache. Seinem klaren, blaugrünen Wasser sieht man nicht an, dass hier bis in die achtziger Jahre Braunkohle gefördert wurde. Die Umgebung ist waldig und geprägt durch die Auenlandschaft der Schwalm.",
@@ -8209,25 +8209,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 500,
-                        "main": "Rain",
-                        "description": "light rain",
-                        "icon": "10d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.741,
-                "temp_min": 8.741,
-                "temp_max": 8.741,
-                "humidity": 97,
-                "pressure": 999.21,
+                "temp": 2.0700000000001,
+                "temp_min": 2.0700000000001,
+                "temp_max": 2.0700000000001,
+                "humidity": 85,
+                "pressure": 996.74,
                 "wind": {
-                    "speed": 2.32,
-                    "deg": 324.504
+                    "speed": 1.41,
+                    "deg": 81.0042
                 },
                 "clouds": {
-                    "all": 88
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:44:57.000Z"
+                "lastUpdated": "2015-03-16T20:08:40.000Z"
             }
         }
     },
@@ -8237,8 +8237,8 @@
         "latitude": "50.993400",
         "longitude": "9.269100",
         "_id": "54e88e163aa8ccc41e1ab830",
-        "openFrom": "2014-05-15T22:00:00.000Z",
-        "openTo": "2014-09-06T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-09-05T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "1969 beendete man hier den Abbau von Braunkohle. Die Grube füllte sich auf einer Fläche von 5 ha zu einem See. Das blaugrüne Wasser ist im Badebereich über einen Sandstrand zu erreichen. In den übrigen Bereichen ist das Ufer steil.",
@@ -8577,29 +8577,29 @@
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Neuenhainer_See/DEHE_PR_0050_Neuenhainer_See.pdf"
         },
         "weather": {
-            "openWeatherCityId": 6553277,
+            "openWeatherCityId": 2865553,
             "current": {
                 "weather": [
                     {
-                        "id": 500,
-                        "main": "Rain",
-                        "description": "light rain",
-                        "icon": "10d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.741,
-                "temp_min": 8.741,
-                "temp_max": 8.741,
-                "humidity": 97,
-                "pressure": 999.21,
+                "temp": 2.0700000000001,
+                "temp_min": 2.0700000000001,
+                "temp_max": 2.0700000000001,
+                "humidity": 85,
+                "pressure": 996.74,
                 "wind": {
-                    "speed": 2.32,
-                    "deg": 324.504
+                    "speed": 1.41,
+                    "deg": 81.0042
                 },
                 "clouds": {
-                    "all": 88
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:45:37.000Z"
+                "lastUpdated": "2015-03-16T20:06:07.000Z"
             }
         }
     },
@@ -8609,8 +8609,8 @@
         "latitude": "50.651300",
         "longitude": "9.598400",
         "_id": "54e88e163aa8ccc41e1ab831",
-        "openFrom": "2014-07-04T22:00:00.000Z",
-        "openTo": "2014-09-06T22:00:00.000Z",
+        "openFrom": "2015-07-03T22:00:00.000Z",
+        "openTo": "2015-09-05T22:00:00.000Z",
         "messages": [
             {
                 "date": "2014-08-19T22:00:00.000Z",
@@ -8968,25 +8968,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 802,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "scattered clouds",
+                        "icon": "03n"
                     }
                 ],
-                "temp": 8.766,
-                "temp_min": 8.766,
-                "temp_max": 8.766,
-                "humidity": 96,
-                "pressure": 992.4,
+                "temp": 5.877,
+                "temp_min": 5.877,
+                "temp_max": 5.877,
+                "humidity": 78,
+                "pressure": 989.32,
                 "wind": {
-                    "speed": 1.77,
-                    "deg": 291.004
+                    "speed": 2.85,
+                    "deg": 98.0022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 44
                 },
-                "lastUpdated": "2015-03-10T13:36:40.000Z"
+                "lastUpdated": "2015-03-16T20:04:03.000Z"
             }
         }
     },
@@ -8996,8 +8996,8 @@
         "latitude": "51.373400",
         "longitude": "9.061500",
         "_id": "54e88e163aa8ccc41e1ab832",
-        "openFrom": "2014-06-15T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-09T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "In den siebziger Jahren wurde dieser Stausee zum Hochwasserschutz gebaut. Der See ist 121 ha groß und hat Trinkwasserqualität. Gesäumt von Wiesen und Wald liegt das klare Gewässer in einem Naturschutzgebiet. Kraftfahrzeuge werden vom umgebenden Rundweg ferngehalten. Hunde müssen an die Leine und dürfen nicht ins Wasser.",
@@ -9358,25 +9358,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.741,
-                "temp_min": 8.741,
-                "temp_max": 8.741,
-                "humidity": 99,
-                "pressure": 1007.24,
+                "temp": 4.375,
+                "temp_min": 4.375,
+                "temp_max": 4.375,
+                "humidity": 83,
+                "pressure": 1006.03,
                 "wind": {
-                    "speed": 3.02,
-                    "deg": 321.504
+                    "speed": 2.91,
+                    "deg": 112.501
                 },
                 "clouds": {
-                    "all": 88
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:44:25.000Z"
+                "lastUpdated": "2015-03-16T20:08:40.000Z"
             }
         }
     },
@@ -9386,8 +9386,8 @@
         "latitude": "51.183800",
         "longitude": "9.023200",
         "_id": "54e88e163aa8ccc41e1ab833",
-        "openFrom": "2014-06-15T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-09T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Was für ein Stausee! Mehr als 25 Millionen Goldmark hat er das Königreich Preussen gekostet! 1914 war das gewaltige Bauwerk fertiggestellt: Stärke der Staumauer an der Sohle 36 m, Länge an der Krone 400 m, Stauhöhe 47 m, Länge des Sees 27 km mit einer Uferlänge von 69 km. Als das Wasser der Eder sich staute, mussten etwa 900 Menschen ihre Häuser verlassen. Die Errichtung eines großen Wasserreservoirs war erforderlich für die Speisung des neu gebauten Mittellandkanals. Zusätzlich schützte man so das untere Edertal und die Fulda gegen Hochwasser und konnte die Wasserkraft zur Gewinnung von Elektrizität nutzen. Der See wirkt aber auch elektrisierend auf Freunde des Wassersports und Erholungssuchende aus ganz Deutschland, in dessen Mitte dieses Ferienparadies liegt.",
@@ -9723,11 +9723,11 @@
         ],
         "blueGreenAlgeaRisk": "mittel",
         "operator": {
-            "name": "Gemeinde Edertal ",
+            "name": "Gemeinde Edertal",
             "street": "Bahhofstr.25",
             "zipcodeCity": "34549 Giflitz",
             "email": "gemeinde@edertal.de",
-            "telephone": "05623-808-0 ",
+            "telephone": "05623-808-0",
             "fax": "05623-808-28",
             "website": "www.edertal.de"
         },
@@ -9749,25 +9749,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 500,
-                        "main": "Rain",
-                        "description": "light rain",
-                        "icon": "10d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.741,
-                "temp_min": 8.741,
-                "temp_max": 8.741,
-                "humidity": 97,
-                "pressure": 999.21,
+                "temp": 2.0700000000001,
+                "temp_min": 2.0700000000001,
+                "temp_max": 2.0700000000001,
+                "humidity": 85,
+                "pressure": 996.74,
                 "wind": {
-                    "speed": 2.32,
-                    "deg": 324.504
+                    "speed": 1.41,
+                    "deg": 81.0042
                 },
                 "clouds": {
-                    "all": 88
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:45:48.000Z"
+                "lastUpdated": "2015-03-16T20:08:39.000Z"
             }
         }
     },
@@ -9777,8 +9777,8 @@
         "latitude": "51.174500",
         "longitude": "8.890900",
         "_id": "54e88e163aa8ccc41e1ab834",
-        "openFrom": "2014-06-15T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-09T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Das Badegewässer Campingplatz Teichmann ist ein Ederauensee oberhalb der Stauwurzel der Edertalsperre in Vöhl-Herzhausen, der durch den Abbau von Kies entstanden ist. An dem Badegewässer befindet sich der gleichnamige Campingplatz.",
@@ -10137,25 +10137,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 6.366,
-                "temp_min": 6.366,
-                "temp_max": 6.366,
-                "humidity": 98,
-                "pressure": 987.05,
+                "temp": 1.2,
+                "temp_min": 1.2,
+                "temp_max": 1.2,
+                "humidity": 83,
+                "pressure": 985.28,
                 "wind": {
-                    "speed": 1.32,
-                    "deg": 304.504
+                    "speed": 1.86,
+                    "deg": 105.501
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:45:39.000Z"
+                "lastUpdated": "2015-03-16T20:08:42.000Z"
             }
         }
     },
@@ -10165,8 +10165,8 @@
         "latitude": "51.191600",
         "longitude": "10.094000",
         "_id": "54e88e163aa8ccc41e1ab835",
-        "openFrom": "2014-05-14T22:00:00.000Z",
-        "openTo": "2014-09-14T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [
             {
                 "date": "2014-08-19T22:00:00.000Z",
@@ -10517,25 +10517,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 7.4,
-                "temp_min": 7.4,
-                "temp_max": 7.4,
-                "humidity": 92,
-                "pressure": 1037.7,
+                "temp": 3.295,
+                "temp_min": 3.295,
+                "temp_max": 3.295,
+                "humidity": 88,
+                "pressure": 996.26,
                 "wind": {
-                    "speed": 2.57,
-                    "deg": 297.004
+                    "speed": 2.66,
+                    "deg": 88.0042
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T12:37:29.000Z"
+                "lastUpdated": "2015-03-16T20:08:42.000Z"
             }
         }
     },
@@ -10545,8 +10545,8 @@
         "latitude": "51.295300",
         "longitude": "9.854000",
         "_id": "54e88e163aa8ccc41e1ab836",
-        "openFrom": "2014-05-14T22:00:00.000Z",
-        "openTo": "2014-09-14T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-14T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der teilweise von steilen Hängen umgebene grüne See entstand 1940, als ein Gipssteinbruch sich mit Oberflächenwasser füllte. Das 5000 m2-Gewässer ist reich an Phytoplankton, daher die grüne Farbe. In der Nähe wird immer noch Gipsstein gebrochen und Gips produziert. In manchen Uferbereichen besteht Steinschlaggefahr. Das Wasser ist über Stege zu erreichen. Hunde werden nicht geduldet.",
@@ -10889,25 +10889,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 7.4,
-                "temp_min": 7.4,
-                "temp_max": 7.4,
-                "humidity": 92,
-                "pressure": 1037.7,
+                "temp": 4.92,
+                "temp_min": 4.92,
+                "temp_max": 4.92,
+                "humidity": 85,
+                "pressure": 1007.52,
                 "wind": {
-                    "speed": 2.17,
-                    "deg": 319.004
+                    "speed": 2.56,
+                    "deg": 106.004
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T12:37:29.000Z"
+                "lastUpdated": "2015-03-16T20:08:40.000Z"
             }
         }
     },
@@ -10917,8 +10917,8 @@
         "latitude": "50.165700",
         "longitude": "9.033100",
         "_id": "54e88e163aa8ccc41e1ab837",
-        "openFrom": "2014-05-31T22:00:00.000Z",
-        "openTo": "2014-09-14T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-09-14T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der Kinzigsee entstand Ende der 70er Jahre als für den Autobahnbau in der Kinzigaue im Main-Kinzig-Kreis bei Langenselbold Erde ausgebaggert wurde in Form eines Restlochs. Der See steht im Wasseraustausch mit dem nahe gelegenen Ruhlsee und der Kinzig, über die er einen ständigen Eintrag von Phosphorverbindungen erfährt. Anfang der 90er Jahre kam es zu einem verstärkten Algenwachstum und deshalb von 1998-2004 zu einem Badeverbot. Erst im Frühjahr 2004 konnte mittels einer 6,2 m tiefen und 436 m langen schwimmenden Tauchwand eine saisonalen Teilrestaurierung im abtrennten Teilbereiches erfolgen und das Badeverbot für diesen Teilbereich wieder aufgehoben werden.",
@@ -11268,25 +11268,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 9.141,
-                "temp_min": 9.141,
-                "temp_max": 9.141,
-                "humidity": 98,
-                "pressure": 1007.48,
+                "temp": 3.295,
+                "temp_min": 3.295,
+                "temp_max": 3.295,
+                "humidity": 87,
+                "pressure": 1004.52,
                 "wind": {
-                    "speed": 2.07,
-                    "deg": 309.004
+                    "speed": 1.31,
+                    "deg": 72.0042
                 },
                 "clouds": {
-                    "all": 100
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:45:49.000Z"
+                "lastUpdated": "2015-03-16T20:08:44.000Z"
             }
         }
     },
@@ -11300,7 +11300,7 @@
         "openTo": "2014-08-30T22:00:00.000Z",
         "messages": [
             {
-                "date": "2015-03-09T23:00:00.000Z",
+                "date": "2015-03-15T23:00:00.000Z",
                 "message": "Badebetrieb am Perfstausee wird bis auf Weiteres eingestellt   Wasserqualität entspricht nicht den EU-Vorgaben für Badegewässer   Der Badebetrieb am Perfstausee in Biedenkopf-Breidenstein wird bis auf Weiteres eingestellt. Wie der Landkreis Marburg-Biedenkopf für Wasserverband Oberes Lahngebiet und die Perfstausee-Betreiber Gesellschaft mitteilt, konnten die Anforderungen an die geforderte Badewasserqualität nicht erreicht werden. „Wir raten daher ausdrücklich aus Gründen der Sicherheit und aus hygienischer Sicht vom Baden im Perfstausee ab“, erklärte Landrätin Kirsten Fründt. Die Funktion als leistungsfähiges Hochwasserrückhaltebecken, also der Hauptzweck des Stausees, werde durch die Einstellung des Badebetriebs nicht beeinträchtigt.   Der Wasserqualität des Perfstausees als Badegewässer im Sinne der EU-Badegewässerverordnung und den ergänzenden Bestimmungen des Landes Hessen muss regelmäßig durch ein Labor überprüft werden. In den vergangen Jahren ist es bereits immer wieder nach Starkregen oder Gewittern zum Teil zu massiven Überschreitungen der Grenzwerte für fäkal-coliformen Keime („Coli-Bakterien“) und Enterococcen gekommen. Dies führte in der Vergangenheit mehrfach zu vorübergehenden Sperrungen der Wasserfläche zum Baden.   „Diese sprunghaften Ausschläge bei den Wasserwerten werden nun zu einer Einstufung ,mangelhaft’ für den Perfstausee durch die EU-Kommission führen“, so Volker Haupt, Geschäftsführer der Perfstausee-Betreiber GmbH. Die belege das statistische Berechungs- und Bewertungsverfahren, das der Badegewässerverordnung zugrunde liegt. „Eine aktuelle Wasseruntersuchung vom 12. Mai 2014 bestätigte erneut, dass die Wasserqualität im See für ein Badegewässer nicht ausreicht“, erläuterte Volker Haupt. Nach den Vorgaben der zuständigen Landes- und Gesundheitsbehörden müsse der Perfstausee daher bis auf Weiteres für den Badebetrieb gesperrt werden.    „Weitere Untersuchungen des Wassers im See werden vorgenommen. Ob der Badebetrieb in diesem Jahr noch einmal freigegeben werden kann, ist jedoch sehr fraglich“, so Volker Haupt. Eine entsprechende Absperrung und Beschilderung an der Liegewiese seien veranlasst.   Die genauen Gründe für die Verunreinigung des Gewässers mit Keimen sind nicht eindeutig geklärt. Vermutlich sind es mehrere Ursachen. Da nahezu regelmäßig nach starken Regenfällen Keimbelastungen auftraten, ist davon auszugehen, dass die Keime aus der Kanalisation über Kanalüberläufe im Oberlauf der Perf in den See gelangt sind. Da die an den See grenzenden Wiesen auch immer stark von Vögeln, wie zum Beispiel Gänsen besucht werden, ist auch eine Verunreinigung durch größere Vogelkot-Mengen nicht auszuschließen, der durch starke Regenfälle von den Wiesen in den See gespült wird. Dafür spricht auch die Art der Keimbelastung."
             }
         ],
@@ -11780,29 +11780,29 @@
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Marburg-Biedenkopf/Perfstausee_Breidenstein/DEHE_PR_0044_Perfstausee_130401.pdf"
         },
         "weather": {
-            "openWeatherCityId": 2949229,
+            "openWeatherCityId": 0,
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:46:00.000Z"
+                "lastUpdated": "2015-03-16T20:08:52.000Z"
             }
         }
     },
@@ -11812,8 +11812,8 @@
         "latitude": "49.608900",
         "longitude": "8.967700",
         "_id": "54e88e163aa8ccc41e1ab839",
-        "openFrom": "2014-06-30T22:00:00.000Z",
-        "openTo": "2014-08-30T22:00:00.000Z",
+        "openFrom": "2015-06-30T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der Bereich hinter dem Staudamm (abzügl. einer Sicherheitszone) ist für Surfer und Segelboote reserviert. Daran angrenzend befindet sich der Bade- und Vergnügungsbereich. Im hinteren Teil des Sees befindet sich der Vogelschutzbereich mit einer kleinen Insel. Dieser Bereich darf nicht betreten und nicht mit Booten befahren werden. Um den See führt ein drei Kilometer langer Wanderweg. ",
@@ -12171,25 +12171,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 5.802,
+                "temp_min": 5.802,
+                "temp_max": 5.802,
+                "humidity": 86,
+                "pressure": 1014.28,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.2,
+                    "deg": 21.5022
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:45:12.000Z"
+                "lastUpdated": "2015-03-16T20:08:45.000Z"
             }
         }
     },
@@ -12553,29 +12553,29 @@
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Stadt_Offenbach/Schultheis-Weiher/DEHE_PR_0047_Text_Schultheis-Weiher_110331.pdf"
         },
         "weather": {
-            "openWeatherCityId": 2857807,
+            "openWeatherCityId": 0,
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 2.345,
+                "temp_min": 2.345,
+                "temp_max": 2.345,
+                "humidity": 84,
+                "pressure": 1002.58,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.26,
+                    "deg": 60.5042
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:45:49.000Z"
+                "lastUpdated": "2015-03-16T20:08:45.000Z"
             }
         }
     },
@@ -12585,8 +12585,8 @@
         "latitude": "50.344000",
         "longitude": "8.507600",
         "_id": "54e88e163aa8ccc41e1ab83b",
-        "openFrom": "2014-04-30T22:00:00.000Z",
-        "openTo": "2014-08-30T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der Hattsteinweiher bei Usingen ist der einzige Badesee im Taunus. Er ist vor ca. 90 Jahren durch die Aufschüttung eines Erdwalles entstanden und wird durch einen kleinen Bach gespeist. Das östliche Ufer ist zum Schwimmen freigegeben und besitzt einen abgetrennten Nichtschwimmerbereich. Man erreicht das öfters durch Algen getrübte Wasser über den an der Liegewiese angrenzenden Badestrand und über große Holzstege.",
@@ -12938,25 +12938,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:45:14.000Z"
+                "lastUpdated": "2015-03-16T20:08:44.000Z"
             }
         }
     },
@@ -12966,8 +12966,8 @@
         "latitude": "50.021800",
         "longitude": "8.996300",
         "_id": "54e88e163aa8ccc41e1ab83c",
-        "openFrom": "2014-04-25T22:00:00.000Z",
-        "openTo": "2014-09-13T22:00:00.000Z",
+        "openFrom": "2015-04-24T22:00:00.000Z",
+        "openTo": "2015-09-12T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Auch hier, in einer alten Flussniederung des Mains, wurde nach Kies gebaggert. Der See hat 14,6 ha Wasserfläche und ist von Wald und Wiesen umgeben. Das Ufer ist nur am Badestrand flach.",
@@ -13364,25 +13364,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 9.141,
-                "temp_min": 9.141,
-                "temp_max": 9.141,
-                "humidity": 98,
-                "pressure": 1007.48,
+                "temp": 3.295,
+                "temp_min": 3.295,
+                "temp_max": 3.295,
+                "humidity": 87,
+                "pressure": 1004.52,
                 "wind": {
-                    "speed": 2.07,
-                    "deg": 309.004
+                    "speed": 1.31,
+                    "deg": 72.0042
                 },
                 "clouds": {
-                    "all": 100
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:45:13.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -13392,8 +13392,8 @@
         "latitude": "50.699500",
         "longitude": "8.474200",
         "_id": "54e88e163aa8ccc41e1ab83d",
-        "openFrom": "2014-05-18T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-17T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "In der Nähe der B 255 eingebettet in die sanften Hügel des Lahn-Dill-Berglandes wurde die Aar zum Schutz vor Hochwasser gestaut. Der insgesamt 82,9 ha große See ist im Bereich des Badestrandes meist klar.",
@@ -13786,29 +13786,29 @@
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Lahn-Dill-Kreis/Aartal_See/DEHE_PR_0031_Text_Aartal See_101201.pdf"
         },
         "weather": {
-            "openWeatherCityId": 6553218,
+            "openWeatherCityId": 2948307,
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:45:15.000Z"
+                "lastUpdated": "2015-03-16T20:08:44.000Z"
             }
         }
     },
@@ -14204,7 +14204,7 @@
             "email": "campingplatz.tobey@t-online.de",
             "telephone": "02775 300",
             "fax": "02775 577487",
-            "website": "http://www.driedorf.de/tourismus/krombachtalsperre.html "
+            "website": "http://www.driedorf.de/tourismus/krombachtalsperre.html"
         },
         "appropriateAuthority": {
             "name": "Gesundheitsamt Lahn-Dill-Kreis",
@@ -14227,22 +14227,22 @@
                         "id": 803,
                         "main": "Clouds",
                         "description": "broken clouds",
-                        "icon": "04d"
+                        "icon": "04n"
                     }
                 ],
-                "temp": 10.591,
-                "temp_min": 10.591,
-                "temp_max": 10.591,
-                "humidity": 86,
-                "pressure": 1031.4,
+                "temp": 9.595,
+                "temp_min": 9.595,
+                "temp_max": 9.595,
+                "humidity": 67,
+                "pressure": 1038.17,
                 "wind": {
-                    "speed": 4.27,
-                    "deg": 295.504
+                    "speed": 7.91,
+                    "deg": 131.504
                 },
                 "clouds": {
                     "all": 80
                 },
-                "lastUpdated": "2015-03-10T13:40:31.000Z"
+                "lastUpdated": "2015-03-16T20:01:39.000Z"
             }
         }
     },
@@ -14252,8 +14252,8 @@
         "latitude": "50.565700",
         "longitude": "8.612100",
         "_id": "54e88e163aa8ccc41e1ab83f",
-        "openFrom": "2014-05-18T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Im Tal der Lahn zwischen Gießen und Wetzlar ist der Dutenhofer See mit 29,4 ha Fläche nicht der einzige Badesee, der durch das Ausbaggern von Kiesvorkommen entstanden ist. Die Umgebung ist als Erholungs- und Naturschutzgebiet beliebtes Ziel für einen sommerlichen Badeausflug. Das ansonsten klare Wasser kann durch Algenwachstum grünlich werden, ein Sandstrand wird jährlich für die Badesaison neu aufgeschüttet.",
@@ -14658,25 +14658,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:46:08.000Z"
+                "lastUpdated": "2015-03-16T20:08:45.000Z"
             }
         }
     },
@@ -14686,8 +14686,8 @@
         "latitude": "50.084800",
         "longitude": "8.996900",
         "_id": "54e88e163aa8ccc41e1ab840",
-        "openFrom": "2014-04-18T22:00:00.000Z",
-        "openTo": "2014-09-27T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "In den Ausläufern der Berge des Spessarts liegt der See Freigericht-West oder auch Großkrotzenburger See genannt, der aus einem alten Braunkohletagebau entstand. Zugang zum See hat man nur über den Badestrand der sich an der 10 ha großen Liegewiese anschließt.. Das sehr saubere Wasser des Sees erstreckt sich über eine Fläche von 21,2 Hektar.",
@@ -15098,8 +15098,8 @@
             "street": "Anne-Frank-Platz 9-11",
             "zipcodeCity": "63538  Großkrotzenburg",
             "email": "Petra.Abt@grosskrotzenburg.de",
-            "telephone": "06186-200969     ",
-            "fax": "06186-200957 ",
+            "telephone": "06186-200969",
+            "fax": "06186-200957",
             "website": "www.grosskrotzenburg.de"
         },
         "appropriateAuthority": {
@@ -15123,22 +15123,22 @@
                         "id": 803,
                         "main": "Clouds",
                         "description": "broken clouds",
-                        "icon": "04d"
+                        "icon": "04n"
                     }
                 ],
-                "temp": 10.591,
-                "temp_min": 10.591,
-                "temp_max": 10.591,
-                "humidity": 86,
-                "pressure": 1031.4,
+                "temp": 9.595,
+                "temp_min": 9.595,
+                "temp_max": 9.595,
+                "humidity": 67,
+                "pressure": 1038.17,
                 "wind": {
-                    "speed": 4.27,
-                    "deg": 295.504
+                    "speed": 7.91,
+                    "deg": 131.504
                 },
                 "clouds": {
                     "all": 80
                 },
-                "lastUpdated": "2015-03-10T13:40:31.000Z"
+                "lastUpdated": "2015-03-16T20:01:39.000Z"
             }
         }
     },
@@ -15148,8 +15148,8 @@
         "latitude": "50.980300",
         "longitude": "9.343000",
         "_id": "54e88e163aa8ccc41e1ab841",
-        "openFrom": "2014-05-15T22:00:00.000Z",
-        "openTo": "2014-09-06T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-09-05T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Im Jahre 1197 wird das mittelalterliche Frielendorf erstmals erwähnt. Es erlangte als Marktflecken Bedeutung für die ganze Region. 26,5 Millionen Tonnen Braunkohle wurden hier im Laufe von 150 Jahren gefördert. Die daraus gepressten Briketts haben sich längst in Rauch aufgelöst. Ende der sechziger Jahre wurde der Tagebau eingestellt und die Natur hat die Landschaft zurückerobert. In sanfte Hügel eingebettet entstand der Silbersee als ein 8 ha großes, idyllisches Badegewässer.",
@@ -15472,7 +15472,7 @@
             "zipcodeCity": "34621 Frielendorf",
             "email": "info@ferienpark-silbersee.de",
             "telephone": "05684 / 9999-0",
-            "fax": "05684 / 8560 ",
+            "fax": "05684 / 8560",
             "website": "www.ferienpark-silbersee.de"
         },
         "appropriateAuthority": {
@@ -15489,29 +15489,29 @@
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Schwalm-Eder-Kreis/Silbersee/DEHE_PR_0049_Frielendorf.pdf"
         },
         "weather": {
-            "openWeatherCityId": 6553271,
+            "openWeatherCityId": 0,
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.766,
-                "temp_min": 8.766,
-                "temp_max": 8.766,
-                "humidity": 96,
-                "pressure": 992.4,
+                "temp": 2.47,
+                "temp_min": 2.47,
+                "temp_max": 2.47,
+                "humidity": 87,
+                "pressure": 989.77,
                 "wind": {
-                    "speed": 1.77,
-                    "deg": 291.004
+                    "speed": 1.41,
+                    "deg": 85.0042
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:45:59.000Z"
+                "lastUpdated": "2015-03-16T20:08:45.000Z"
             }
         }
     },
@@ -15521,8 +15521,8 @@
         "latitude": "50.464700",
         "longitude": "9.376300",
         "_id": "54e88e163aa8ccc41e1ab842",
-        "openFrom": "2014-07-04T22:00:00.000Z",
-        "openTo": "2014-09-06T22:00:00.000Z",
+        "openFrom": "2015-07-03T22:00:00.000Z",
+        "openTo": "2015-09-05T22:00:00.000Z",
         "messages": [
             {
                 "date": "2014-08-18T22:00:00.000Z",
@@ -15893,25 +15893,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 802,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "scattered clouds",
+                        "icon": "03n"
                     }
                 ],
-                "temp": 8.766,
-                "temp_min": 8.766,
-                "temp_max": 8.766,
-                "humidity": 96,
-                "pressure": 992.4,
+                "temp": 5.877,
+                "temp_min": 5.877,
+                "temp_max": 5.877,
+                "humidity": 78,
+                "pressure": 989.32,
                 "wind": {
-                    "speed": 1.77,
-                    "deg": 291.004
+                    "speed": 2.85,
+                    "deg": 98.0022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 44
                 },
-                "lastUpdated": "2015-03-10T13:45:35.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -15921,8 +15921,8 @@
         "latitude": "50.479700",
         "longitude": "9.099100",
         "_id": "54e88e163aa8ccc41e1ab843",
-        "openFrom": "2014-07-04T22:00:00.000Z",
-        "openTo": "2014-09-06T22:00:00.000Z",
+        "openFrom": "2015-07-03T22:00:00.000Z",
+        "openTo": "2015-09-05T22:00:00.000Z",
         "messages": [
             {
                 "date": "2014-08-18T22:00:00.000Z",
@@ -16298,25 +16298,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 9.141,
-                "temp_min": 9.141,
-                "temp_max": 9.141,
-                "humidity": 98,
-                "pressure": 1007.48,
+                "temp": 3.295,
+                "temp_min": 3.295,
+                "temp_max": 3.295,
+                "humidity": 87,
+                "pressure": 1004.52,
                 "wind": {
-                    "speed": 2.07,
-                    "deg": 309.004
+                    "speed": 1.31,
+                    "deg": 72.0042
                 },
                 "clouds": {
-                    "all": 100
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:44:33.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -16326,8 +16326,8 @@
         "latitude": "51.363300",
         "longitude": "8.724600",
         "_id": "54e88e163aa8ccc41e1ab844",
-        "openFrom": "2014-06-15T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-09T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Umgeben von bewaldeten Bergen des Sauerlandes (Hessen/NRW) erstreckt sich der Diemelsee über eine Länge von mehr als 7 Kilometern. Im Naturpark gleichen Namens gelegen lädt die bläulich schimmernde 166 ha große und bis zu 34 m tiefe Wasserfläche des 1924 vollendeten Stausees zu einer Vielzahl wasserfreudiger Aktivitäten ein.",
@@ -16688,25 +16688,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 9.216,
-                "temp_min": 9.216,
-                "temp_max": 9.216,
-                "humidity": 100,
-                "pressure": 1012.83,
+                "temp": 5.277,
+                "temp_min": 5.277,
+                "temp_max": 5.277,
+                "humidity": 85,
+                "pressure": 1009.83,
                 "wind": {
-                    "speed": 3.12,
-                    "deg": 321.504
+                    "speed": 2.75,
+                    "deg": 91.0022
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 24
                 },
-                "lastUpdated": "2015-03-10T13:45:29.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -16716,8 +16716,8 @@
         "latitude": "51.199900",
         "longitude": "9.047900",
         "_id": "54e88e163aa8ccc41e1ab845",
-        "openFrom": "2014-06-15T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-09T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Was für ein Stausee! Mehr als 25 Millionen Goldmark hat er das Königreich Preussen gekostet! 1914 war das gewaltige Bauwerk fertiggestellt: Stärke der Staumauer an der Sohle 36 m, Länge an der Krone 400 m, Stauhöhe 47 m, Länge des Sees 27 km mit einer Uferlänge von 69 km. Als das Wasser der Eder sich staute, mussten etwa 900 Menschen ihre Häuser verlassen. Die Errichtung eines großen Wasserreservoirs war erforderlich für die Speisung des neu gebauten Mittellandkanals. Zusätzlich schützte man so das untere Edertal und die Fulda gegen Hochwasser und konnte die Wasserkraft zur Gewinnung von Elektrizität nutzen. Der See wirkt aber auch elektrisierend auf Freunde des Wassersports und Erholungssuchende aus ganz Deutschland, in dessen Mitte dieses Ferienparadies liegt.",
@@ -17080,25 +17080,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 500,
-                        "main": "Rain",
-                        "description": "light rain",
-                        "icon": "10d"
+                        "id": 802,
+                        "main": "Clouds",
+                        "description": "scattered clouds",
+                        "icon": "03n"
                     }
                 ],
-                "temp": 8.741,
-                "temp_min": 8.741,
-                "temp_max": 8.741,
-                "humidity": 97,
-                "pressure": 999.21,
+                "temp": 5.277,
+                "temp_min": 5.277,
+                "temp_max": 5.277,
+                "humidity": 84,
+                "pressure": 996.29,
                 "wind": {
-                    "speed": 2.32,
-                    "deg": 324.504
+                    "speed": 2.45,
+                    "deg": 74.5022
                 },
                 "clouds": {
-                    "all": 88
+                    "all": 48
                 },
-                "lastUpdated": "2015-03-10T13:46:02.000Z"
+                "lastUpdated": "2015-03-16T20:08:16.000Z"
             }
         }
     },
@@ -17468,25 +17468,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 7.4,
-                "temp_min": 7.4,
-                "temp_max": 7.4,
-                "humidity": 92,
-                "pressure": 1037.8,
+                "temp": 3.295,
+                "temp_min": 3.295,
+                "temp_max": 3.295,
+                "humidity": 88,
+                "pressure": 996.26,
                 "wind": {
-                    "speed": 2.57,
-                    "deg": 297.004
+                    "speed": 2.66,
+                    "deg": 88.0042
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T12:39:53.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -17496,8 +17496,8 @@
         "latitude": "50.430400",
         "longitude": "9.180300",
         "_id": "54e88e163aa8ccc41e1ab847",
-        "openFrom": "2014-05-14T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-13T22:00:00.000Z",
+        "openTo": "2015-08-31T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Ein Erholungsgebiet mit Campingplatz und Feriendorf bilden den Rahmen für diesen Badesee, der landschaftlich schön am Wald gelegen ist und eine Fläche von 13 ha einnimmt. Der Zugang zum Wasser erfolgt über den eigens angelegten Sandstrand. Durch das flach abfallende Ufer eignet sich der Badesee bestens für einen Besuch mit Kindern.",
@@ -17789,25 +17789,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 802,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "scattered clouds",
+                        "icon": "03n"
                     }
                 ],
-                "temp": 9.141,
-                "temp_min": 9.141,
-                "temp_max": 9.141,
-                "humidity": 98,
-                "pressure": 1007.48,
+                "temp": 5.952,
+                "temp_min": 5.952,
+                "temp_max": 5.952,
+                "humidity": 82,
+                "pressure": 1003.51,
                 "wind": {
-                    "speed": 2.07,
-                    "deg": 309.004
+                    "speed": 2.35,
+                    "deg": 67.0022
                 },
                 "clouds": {
-                    "all": 100
+                    "all": 36
                 },
-                "lastUpdated": "2015-03-10T13:44:05.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -17817,8 +17817,8 @@
         "latitude": "49.685288",
         "longitude": "8.428023",
         "_id": "54e88e163aa8ccc41e1ab848",
-        "openFrom": "2014-06-30T22:00:00.000Z",
-        "openTo": "2014-08-30T22:00:00.000Z",
+        "openFrom": "2015-06-30T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "",
@@ -18178,29 +18178,29 @@
             "generalInformation": "http://badeseen.hlug.de/fileadmin/dokumente/badeseen/Bergstrasse/Kaercher-Surfsee/DEHE_PR_0067_Kaercher-Surfsee.pdf"
         },
         "weather": {
-            "openWeatherCityId": 2949367,
+            "openWeatherCityId": 0,
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 5.475,
+                "temp_min": 5.475,
+                "temp_max": 5.475,
+                "humidity": 83,
+                "pressure": 1016.16,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.51,
+                    "deg": 37.0011
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 24
                 },
-                "lastUpdated": "2015-03-10T13:44:31.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -18210,8 +18210,8 @@
         "latitude": "50.485000",
         "longitude": "9.921400",
         "_id": "54e88e163aa8ccc41e1ab849",
-        "openFrom": "2014-05-31T22:00:00.000Z",
-        "openTo": "2014-08-30T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "In der Rhön, zwischen Pferdskopf und Eube, ist dieser Natursee ein beliebtes Ausflugziel. Mit 0,5 ha nicht gerade groß, gibt er dem Freizeitpark Guckaisee seinen Namen.",
@@ -18566,25 +18566,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 802,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "scattered clouds",
+                        "icon": "03n"
                     }
                 ],
-                "temp": 8.766,
-                "temp_min": 8.766,
-                "temp_max": 8.766,
-                "humidity": 96,
-                "pressure": 992.4,
+                "temp": 5.877,
+                "temp_min": 5.877,
+                "temp_max": 5.877,
+                "humidity": 78,
+                "pressure": 989.32,
                 "wind": {
-                    "speed": 1.77,
-                    "deg": 291.004
+                    "speed": 2.85,
+                    "deg": 98.0022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 44
                 },
-                "lastUpdated": "2015-03-10T13:45:38.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -18594,8 +18594,8 @@
         "latitude": "50.065400",
         "longitude": "8.974000",
         "_id": "54e88e163aa8ccc41e1ab84a",
-        "openFrom": "2014-04-25T22:00:00.000Z",
-        "openTo": "2014-09-13T22:00:00.000Z",
+        "openFrom": "2015-04-24T22:00:00.000Z",
+        "openTo": "2015-09-12T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Ein 6,4 ha großer Baggersee am Ortsrand, entstanden durch Sand und Kiesabbau. Das südliche Ufer ist flach, ein Badestrand ist ausgewiesen und bietet Zugang zum See.",
@@ -18995,22 +18995,22 @@
                         "id": 803,
                         "main": "Clouds",
                         "description": "broken clouds",
-                        "icon": "04d"
+                        "icon": "04n"
                     }
                 ],
-                "temp": 10.591,
-                "temp_min": 10.591,
-                "temp_max": 10.591,
-                "humidity": 86,
-                "pressure": 1031.4,
+                "temp": 9.595,
+                "temp_min": 9.595,
+                "temp_max": 9.595,
+                "humidity": 67,
+                "pressure": 1038.17,
                 "wind": {
-                    "speed": 4.27,
-                    "deg": 295.504
+                    "speed": 7.91,
+                    "deg": 131.504
                 },
                 "clouds": {
                     "all": 80
                 },
-                "lastUpdated": "2015-03-10T13:40:31.000Z"
+                "lastUpdated": "2015-03-16T20:01:39.000Z"
             }
         }
     },
@@ -19020,8 +19020,8 @@
         "latitude": "50.022300",
         "longitude": "9.020400",
         "_id": "54e88e163aa8ccc41e1ab84b",
-        "openFrom": "2014-04-25T22:00:00.000Z",
-        "openTo": "2014-09-13T22:00:00.000Z",
+        "openFrom": "2015-04-24T22:00:00.000Z",
+        "openTo": "2015-09-12T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Dieser Baggersee ist 7,5 ha groß und liegt inmitten der Mainflinger Seenplatte. Das Ufer ist steil, nur der Nichtschwimmerbereich ist flach. Zugang zum See findet man nur über den Badestrand. Benachbart liegen ein Naturschutz- und ein Anglersee. Hunde sind verboten!",
@@ -19426,25 +19426,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 9.141,
-                "temp_min": 9.141,
-                "temp_max": 9.141,
-                "humidity": 98,
-                "pressure": 1007.48,
+                "temp": 3.295,
+                "temp_min": 3.295,
+                "temp_max": 3.295,
+                "humidity": 87,
+                "pressure": 1004.52,
                 "wind": {
-                    "speed": 2.07,
-                    "deg": 309.004
+                    "speed": 1.31,
+                    "deg": 72.0042
                 },
                 "clouds": {
-                    "all": 100
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:45:13.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -19454,8 +19454,8 @@
         "latitude": "50.007900",
         "longitude": "8.869700",
         "_id": "54e88e163aa8ccc41e1ab84c",
-        "openFrom": "2014-04-25T22:00:00.000Z",
-        "openTo": "2014-09-19T22:00:00.000Z",
+        "openFrom": "2015-04-24T22:00:00.000Z",
+        "openTo": "2015-09-12T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der Baggersee liegt am Stadtrand von Rodgau, ist 26,3 ha groß und wird seit 1977 als Badesee genutzt. Das Ufer ist flach, teilweise terrassiert, denn die hellblaue Wasserfläche liegt ca. 15 m unter Landschaftsniveau. Zugang hat man nur vom Badestrand. Das Wasser ist durch den noch stattfindenden Kiesabbau im nördlichen Bereich leicht getrübt.",
@@ -19859,25 +19859,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:36:04.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -19887,8 +19887,8 @@
         "latitude": "50.546600",
         "longitude": "8.149600",
         "_id": "54e88e163aa8ccc41e1ab84d",
-        "openFrom": "2014-05-02T22:00:00.000Z",
-        "openTo": "2014-09-06T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-09-05T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Sei es nun ein See oder ein Weiher, das Wasser wurde schon 1452 aufgestaut. Zwischen Waldernbach und Mengerskirchen bedeckt das blaugraue Gewässer eine Fläche von ca. 14 ha. Das flache Ufer ist mit Bäumen und Sträuchern bewachsen, ins Wasser darf man nur vom Badestrand am westlichen Ufer.",
@@ -20300,25 +20300,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 2.345,
+                "temp_min": 2.345,
+                "temp_max": 2.345,
+                "humidity": 84,
+                "pressure": 1002.58,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.26,
+                    "deg": 60.5042
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:46:14.000Z"
+                "lastUpdated": "2015-03-16T20:08:38.000Z"
             }
         }
     },
@@ -20328,8 +20328,8 @@
         "latitude": "49.900400",
         "longitude": "8.733900",
         "_id": "54e88e163aa8ccc41e1ab84e",
-        "openFrom": "2014-05-14T22:00:00.000Z",
-        "openTo": "2014-09-14T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-14T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Die Grube Prinz von Hessen ist eine mit Grundwasser gefüllte ehemalige Braunkohlegrube. Sie ist mitten im Wald zwischen Darmstadt und Dieburg gelegen und besitzt einen idyllischen Badestrand. ",
@@ -20681,25 +20681,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 9.188,
+                "temp_min": 9.188,
+                "temp_max": 9.188,
+                "humidity": 71,
+                "pressure": 1014.29,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.63,
+                    "deg": 59.0003
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 20
                 },
-                "lastUpdated": "2015-03-10T13:45:16.000Z"
+                "lastUpdated": "2015-03-16T19:24:30.000Z"
             }
         }
     },
@@ -20709,8 +20709,8 @@
         "latitude": "50.013900",
         "longitude": "8.596200",
         "_id": "54e88e163aa8ccc41e1ab84f",
-        "openFrom": "2014-05-09T22:00:00.000Z",
-        "openTo": "2014-09-06T22:00:00.000Z",
+        "openFrom": "2015-05-08T22:00:00.000Z",
+        "openTo": "2015-09-05T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Dieser 17.3 ha große Baggersee liegt zwischen B 44 und der BAB 5 im Bereich Frankfurt-Aschaffenburgerstraße. Auf Gefährdungen durch Wasserpflanzen wird hingewiesen, das westliche Seeufer ist für den Badebetrieb gesperrt.Hier muss man schwimmen können. Es geht überall recht steil ins Wasser, Flachzonen sind nicht vorhanden.",
@@ -21063,25 +21063,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 5.802,
+                "temp_min": 5.802,
+                "temp_max": 5.802,
+                "humidity": 86,
+                "pressure": 1014.28,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.2,
+                    "deg": 21.5022
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:45:47.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -21091,8 +21091,8 @@
         "latitude": "49.859200",
         "longitude": "8.423500",
         "_id": "54e88e163aa8ccc41e1ab850",
-        "openFrom": "2014-03-31T22:00:00.000Z",
-        "openTo": "2014-09-29T22:00:00.000Z",
+        "openFrom": "2015-03-31T22:00:00.000Z",
+        "openTo": "2015-09-29T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der Riedsee entstand in Folge eines Kiesabbaus. Sein klares Wasser nimmt eine Fläche von 24 Hektar ein. Der See liegt an der Landstraße von Leeheim nach Geinsheim in einem Erholungsgebiet, umgeben von Ackerland. Die Uferzone im Badebereich ist flach, zum Baden erreicht man das Wasser über den ausgewiesenen Badestrand.",
@@ -21505,25 +21505,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 5.475,
+                "temp_min": 5.475,
+                "temp_max": 5.475,
+                "humidity": 83,
+                "pressure": 1016.16,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.51,
+                    "deg": 37.0011
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 24
                 },
-                "lastUpdated": "2015-03-10T13:37:18.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -21533,8 +21533,8 @@
         "latitude": "49.875600",
         "longitude": "8.380200",
         "_id": "54e88e163aa8ccc41e1ab851",
-        "openFrom": "2014-05-09T22:00:00.000Z",
-        "openTo": "2014-09-14T22:00:00.000Z",
+        "openFrom": "2015-05-07T22:00:00.000Z",
+        "openTo": "2015-09-25T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "An diesem Baggersee wird schon seit 1953 gebadet. Das Gewässer (3,6 ha) wird zum Ufer hin von Schilf gesäumt, am Grund des Sees wachsen Wasserpflanzen. Die ausgewiesenen Vogelschutzzonen beeindrucken durch ihre Artenvielfalt. Man findet Störche, Eulen, Eisvögel, um nur einige zu nennen. Die Wasserqualität ist meist sehr gut. Ans Wasser gelangt man nur vom Badestrand.",
@@ -21890,25 +21890,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
-                        "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "sky is clear",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 4.895,
+                "temp_min": 4.895,
+                "temp_max": 4.895,
+                "humidity": 86,
+                "pressure": 1015.14,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.01,
+                    "deg": 46.0042
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 8
                 },
-                "lastUpdated": "2015-03-10T13:45:46.000Z"
+                "lastUpdated": "2015-03-16T20:08:47.000Z"
             }
         }
     },
@@ -21918,8 +21918,8 @@
         "latitude": "50.152200",
         "longitude": "8.954500",
         "_id": "54e88e163aa8ccc41e1ab852",
-        "openFrom": "2014-05-14T22:00:00.000Z",
-        "openTo": "2014-09-14T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-14T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der max., nur 3,8 m tiefe Baggersee von 6 ha mit flachem Ufer und zwei Badestränden liegt in einem bewaldeten Erholungsgebiet.",
@@ -22275,25 +22275,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:46:22.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -22303,8 +22303,8 @@
         "latitude": "50.641400",
         "longitude": "8.688800",
         "_id": "54e88e163aa8ccc41e1ab853",
-        "openFrom": "2014-05-31T22:00:00.000Z",
-        "openTo": "2014-08-30T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Dieser Baggersee liegt umgeben von Wald und Wiesen in einer Lahnschleife. Nach dem Ende des Kiesabbaus wurde das Gelände renaturiert und zu einem Erholungsgebiet gestaltet. Über 9,6 ha erstreckt sich nun die blaugrüne Wasserfläche.",
@@ -22704,7 +22704,7 @@
             "email": "",
             "telephone": "06406 / 75697",
             "fax": "",
-            "website": "www.wissmarer-see.de "
+            "website": "www.wissmarer-see.de"
         },
         "appropriateAuthority": {
             "name": "Gesundheitsamt Landkreis Gießen",
@@ -22724,25 +22724,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "sky is clear",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 2.775,
+                "temp_min": 2.775,
+                "temp_max": 2.775,
+                "humidity": 84,
+                "pressure": 1003.68,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.46,
+                    "deg": 71.5011
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 8
                 },
-                "lastUpdated": "2015-03-10T13:44:58.000Z"
+                "lastUpdated": "2015-03-16T20:08:42.000Z"
             }
         }
     },
@@ -22752,8 +22752,8 @@
         "latitude": "50.835600",
         "longitude": "8.298500",
         "_id": "54e88e163aa8ccc41e1ab854",
-        "openFrom": "2014-05-18T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-17T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Im nördlichen Lahn-Dill-Kreis am Fuße des Rothaargebirges wurde in den Jahren 1925/26 im Rahmen der \"Erwerbslosenfürsorge\" von 30 Arbeitslosen in Handarbeit der 2 ha große Stauweiher Ewersbach angelegt. Er diente der Erzeugung von Elektrizität, sollte aber auch den Einwohnern der Gemeinde \"für alle Zeiten frei und unentgeltlich als Badeweiher zur Verfügung stehen.\" Das tut er bis heute.",
@@ -23156,36 +23156,36 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "sky is clear",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 2.775,
+                "temp_min": 2.775,
+                "temp_max": 2.775,
+                "humidity": 84,
+                "pressure": 1003.68,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.46,
+                    "deg": 71.5011
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 8
                 },
-                "lastUpdated": "2015-03-10T13:46:16.000Z"
+                "lastUpdated": "2015-03-16T20:08:53.000Z"
             }
         }
     },
     {
         "name": "Ulmbachtalsperre",
-        "hlugurl": "http://badeseen.hlug.de/badegewaesser/lahn-dill-kreis/ulmbachtalsperre.html?tx_hlugbadeseen_pi1%5Baction%5D=showStammdaten&tx_hlugbadeseen_pi1%5Bcontroller%5D=BadeseeStammdaten&cHash=9781f6cf69bfc3bf2e9425d4fafecb93",
+        "hlugurl": "http://badeseen.hlug.de/badegewaesser/lahn-dill-kreis/ulmbachtalsperre.html",
         "latitude": "50.602400",
         "longitude": "8.268500",
         "_id": "54e88e163aa8ccc41e1ab855",
-        "openFrom": "2014-05-18T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-17T22:00:00.000Z",
+        "openTo": "2015-08-30T22:00:00.000Z",
         "messages": [
             {
                 "date": "2014-08-28T22:00:00.000Z",
@@ -23562,25 +23562,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 2.345,
+                "temp_min": 2.345,
+                "temp_max": 2.345,
+                "humidity": 84,
+                "pressure": 1002.58,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.26,
+                    "deg": 60.5042
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:45:50.000Z"
+                "lastUpdated": "2015-03-16T20:08:47.000Z"
             }
         }
     },
@@ -23590,8 +23590,8 @@
         "latitude": "51.371600",
         "longitude": "8.708000",
         "_id": "54e88e163aa8ccc41e1ab856",
-        "openFrom": "2014-06-15T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-09T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Umgeben von bewaldeten Bergen des Sauerlandes (Hessen/NRW) erstreckt sich der Diemelsee über eine Länge von mehr als 7 Kilometern. Im Naturpark gleichen Namens gelegen lädt die bläulich schimmernde 166 ha große und bis zu 34 m tiefe Wasserfläche des 1924 vollendeten Stausees zu einer Vielzahl wasserfreudiger Aktivitäten ein.",
@@ -23952,25 +23952,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 9.216,
-                "temp_min": 9.216,
-                "temp_max": 9.216,
-                "humidity": 100,
-                "pressure": 1012.83,
+                "temp": 5.277,
+                "temp_min": 5.277,
+                "temp_max": 5.277,
+                "humidity": 85,
+                "pressure": 1009.83,
                 "wind": {
-                    "speed": 3.12,
-                    "deg": 321.504
+                    "speed": 2.75,
+                    "deg": 91.0022
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 24
                 },
-                "lastUpdated": "2015-03-10T13:45:40.000Z"
+                "lastUpdated": "2015-03-16T20:08:46.000Z"
             }
         }
     },
@@ -23980,8 +23980,8 @@
         "latitude": "51.078359",
         "longitude": "9.550157",
         "_id": "54e88e163aa8ccc41e1ab857",
-        "openFrom": "2014-05-15T22:00:00.000Z",
-        "openTo": "2014-09-06T22:00:00.000Z",
+        "openFrom": "2015-04-30T22:00:00.000Z",
+        "openTo": "2015-09-05T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der Naturbadesee Beiseförth hat eine Fläche von 2 ha und ist durch den Abbau von Kies in der Fuldaaue entstanden. Das Badegewässer liegt direkt am Fernradweg R1 und direkt an der Fulda, die von Kanuten für die Ausübung des Wassersportes genutzt wird. Ein Campingplatz für Zelte, Caravans und Wohnmobile sowie eine Gaststätte ergänzen das touristische Angebot des Naturbadesees Beiseförth. ",
@@ -24180,25 +24180,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 500,
-                        "main": "Rain",
-                        "description": "light rain",
-                        "icon": "10d"
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04n"
                     }
                 ],
-                "temp": 8.491,
-                "temp_min": 8.491,
-                "temp_max": 8.491,
-                "humidity": 97,
-                "pressure": 999.78,
+                "temp": 5.702,
+                "temp_min": 5.702,
+                "temp_max": 5.702,
+                "humidity": 80,
+                "pressure": 997.43,
                 "wind": {
-                    "speed": 2.12,
-                    "deg": 315.504
+                    "speed": 2.9,
+                    "deg": 95.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 68
                 },
-                "lastUpdated": "2015-03-10T13:45:41.000Z"
+                "lastUpdated": "2015-03-16T20:08:51.000Z"
             }
         }
     },
@@ -24208,8 +24208,8 @@
         "latitude": "49.904500",
         "longitude": "8.671300",
         "_id": "54e88e163aa8ccc41e1ab858",
-        "openFrom": "2014-05-14T22:00:00.000Z",
-        "openTo": "2014-09-13T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-14T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Idyllisch im Stadtteil Arheilgen gelegen, wird dieses mit 1,4 Hektar relativ kleine Gewässer als städtisches Freibad genutzt. Die flachen Ufer sind von Wiesen umgeben, der See gehört zu einem Naherholungsgebiet. Ein Badestrand ist ausgewiesen.",
@@ -24542,7 +24542,7 @@
             "name": "Eigenbetrieb Bäder",
             "street": "Frankfurter Str. 71",
             "zipcodeCity": "64293 Darmstadt",
-            "email": "sportamt@darmstadt.de ",
+            "email": "sportamt@darmstadt.de",
             "telephone": "06151 132974 und 132972",
             "fax": "06151 132940",
             "website": "www.baeder.darmstadt.de"
@@ -24565,25 +24565,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 9.188,
+                "temp_min": 9.188,
+                "temp_max": 9.188,
+                "humidity": 71,
+                "pressure": 1014.29,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.63,
+                    "deg": 59.0003
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 20
                 },
-                "lastUpdated": "2015-03-10T13:45:38.000Z"
+                "lastUpdated": "2015-03-16T19:24:30.000Z"
             }
         }
     },
@@ -24593,8 +24593,8 @@
         "latitude": "49.776300",
         "longitude": "8.807700",
         "_id": "54e88e163aa8ccc41e1ab859",
-        "openFrom": "2014-05-14T22:00:00.000Z",
-        "openTo": "2014-09-14T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-14T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Bei dem Freibad \"Odenwaldidyll\" handelt es sich um ein 1934 fertiggestelltes Naturschwimmbad. Ein großes Schwimmbecken und ein Nichtschwimmerbecken werden von einem kleinen Bach gespeist.",
@@ -24949,25 +24949,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 803,
-                        "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "sky is clear",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 10.516,
-                "temp_min": 10.516,
-                "temp_max": 10.516,
-                "humidity": 96,
-                "pressure": 1019,
+                "temp": 4.895,
+                "temp_min": 4.895,
+                "temp_max": 4.895,
+                "humidity": 86,
+                "pressure": 1015.14,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 316.504
+                    "speed": 2.01,
+                    "deg": 46.0042
                 },
                 "clouds": {
-                    "all": 80
+                    "all": 8
                 },
-                "lastUpdated": "2015-03-10T13:46:22.000Z"
+                "lastUpdated": "2015-03-16T20:08:47.000Z"
             }
         }
     },
@@ -24977,8 +24977,8 @@
         "latitude": "51.205100",
         "longitude": "10.041300",
         "_id": "54e88e163aa8ccc41e1ab85a",
-        "openFrom": "2014-05-14T22:00:00.000Z",
-        "openTo": "2014-09-14T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-14T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Früher fand man hier Kies, jetzt findet man Vergnügen an diesem Baggersee mit seinem Freizeit- und Erholungszentrum. Die klare Wasserfläche erstreckt sich über 30 ha, die Hälfte dient als Badesee, davon stehen knapp 13 ha zum Baden und 17 ha für die Nutzung des Wassersports zur Verfügung.",
@@ -25329,25 +25329,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 7.4,
-                "temp_min": 7.4,
-                "temp_max": 7.4,
-                "humidity": 92,
-                "pressure": 1037.7,
+                "temp": 3.295,
+                "temp_min": 3.295,
+                "temp_max": 3.295,
+                "humidity": 88,
+                "pressure": 996.26,
                 "wind": {
-                    "speed": 2.57,
-                    "deg": 297.004
+                    "speed": 2.66,
+                    "deg": 88.0042
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T12:37:29.000Z"
+                "lastUpdated": "2015-03-16T20:08:42.000Z"
             }
         }
     },
@@ -25357,8 +25357,8 @@
         "latitude": "51.182400",
         "longitude": "8.952400",
         "_id": "54e88e163aa8ccc41e1ab85b",
-        "openFrom": "2014-06-15T22:00:00.000Z",
-        "openTo": "2014-08-31T22:00:00.000Z",
+        "openFrom": "2015-05-31T22:00:00.000Z",
+        "openTo": "2015-08-09T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Was für ein Stausee! Mehr als 25 Millionen Goldmark hat er das Königreich Preussen gekostet! 1914 war das gewaltige Bauwerk fertiggestellt: Stärke der Staumauer an der Sohle 36 m, Länge an der Krone 400 m, Stauhöhe 47 m, Länge des Sees 27 km mit einer Uferlänge von 69 km. Als das Wasser der Eder sich staute, mussten etwa 900 Menschen ihre Häuser verlassen. Die Errichtung eines großen Wasserreservoirs war erforderlich für die Speisung des neu gebauten Mittellandkanals. Zusätzlich schützte man so das untere Edertal und die Fulda gegen Hochwasser und konnte die Wasserkraft zur Gewinnung von Elektrizität nutzen. Der See wirkt aber auch elektrisierend auf Freunde des Wassersports und Erholungssuchende aus ganz Deutschland, in dessen Mitte dieses Ferienparadies liegt.",
@@ -25719,25 +25719,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "Sky is Clear",
+                        "icon": "01n"
                     }
                 ],
-                "temp": 6.366,
-                "temp_min": 6.366,
-                "temp_max": 6.366,
-                "humidity": 98,
-                "pressure": 987.05,
+                "temp": 1.2,
+                "temp_min": 1.2,
+                "temp_max": 1.2,
+                "humidity": 83,
+                "pressure": 985.28,
                 "wind": {
-                    "speed": 1.32,
-                    "deg": 304.504
+                    "speed": 1.86,
+                    "deg": 105.501
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 0
                 },
-                "lastUpdated": "2015-03-10T13:45:39.000Z"
+                "lastUpdated": "2015-03-16T20:08:42.000Z"
             }
         }
     },
@@ -25747,8 +25747,8 @@
         "latitude": "50.012900",
         "longitude": "8.482000",
         "_id": "54e88e163aa8ccc41e1ab85c",
-        "openFrom": "2014-05-15T22:00:00.000Z",
-        "openTo": "2014-09-13T22:00:00.000Z",
+        "openFrom": "2015-05-14T22:00:00.000Z",
+        "openTo": "2015-09-12T22:00:00.000Z",
         "messages": [],
         "bathingPermission": "keine Badesaison",
         "introtext": "Der Name lässt es schon vermuten, dieser Baggersee ist von Wald umgeben. Das durch den noch nicht abgeschlossenen Kiesabbau etwas getrübte Wasser bedeckt eine Fläche von 14 ha. Auf Gefährdungen durch Untiefen wird hingewiesen.",
@@ -26101,25 +26101,25 @@
             "current": {
                 "weather": [
                     {
-                        "id": 804,
+                        "id": 801,
                         "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04d"
+                        "description": "few clouds",
+                        "icon": "02n"
                     }
                 ],
-                "temp": 8.866,
-                "temp_min": 8.866,
-                "temp_max": 8.866,
-                "humidity": 98,
-                "pressure": 1005.7,
+                "temp": 3.952,
+                "temp_min": 3.952,
+                "temp_max": 3.952,
+                "humidity": 87,
+                "pressure": 1001.72,
                 "wind": {
-                    "speed": 1.97,
-                    "deg": 312.004
+                    "speed": 1.8,
+                    "deg": 45.5022
                 },
                 "clouds": {
-                    "all": 92
+                    "all": 12
                 },
-                "lastUpdated": "2015-03-10T13:45:46.000Z"
+                "lastUpdated": "2015-03-16T20:08:50.000Z"
             }
         }
     }
