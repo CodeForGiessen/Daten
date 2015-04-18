@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.badessen.hlug.de/BadeseenImportXMLSchema"
+	xmlns="http://www.badessen.hlug.de/BadeseenImportXMLSchema"
+	elementFormDefault="qualified">
+
+	<xs:element name="lakeImport">
+		<xs:annotation>
+			<xs:documentation>Root element contains one or more nodes of type
+				Lake.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="lake" type="Lake" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation>Node representing a single lake entity.
+						</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name="Lake">
+
+		<xs:annotation>
+			<xs:documentation></xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="measurement" type="Measurement"
+				maxOccurs="unbounded" minOccurs="0" />
+			<xs:element name="activity" type="Activity" maxOccurs="unbounded"
+				minOccurs="0" />
+			<xs:element name="yearrating" type="Yearrating" maxOccurs="unbounded"
+				minOccurs="0" />
+			<xs:element name="image" type="Image" maxOccurs="unbounded"
+				minOccurs="0" />
+			<xs:element name="authority" type="Authority" minOccurs="1"
+				maxOccurs="1" />
+			<xs:element name="message" type="Message" maxOccurs="unbounded"
+				minOccurs="0" />
+			<xs:element name="operator" type="Operator" minOccurs="1"
+				maxOccurs="1">
+			</xs:element>
+			<xs:element name="ressources" type="Ressource" minOccurs="1"
+				maxOccurs="1">
+			</xs:element>
+		</xs:sequence>
+
+		<xs:attribute name="id" type="xs:string" use="required">
+			<xs:annotation>
+				<xs:documentation>Unique Id of a lake (e. g. DEHE_PR_0001 like in
+					Document Badegweässerprofiltabelle)</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="name" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="hlugurl" type="xs:string" use="required">
+			<xs:annotation>
+				<xs:documentation>URL representing a specific lake e. g. "
+					http://badeseen.hlug.de/badegewaesser/giessen/launsbacher-see.html
+					"</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="bathingPermission" type="xs:string"
+			use="required">
+			<xs:annotation>
+				<xs:documentation>Whether swimming etc. is allowed or not.
+				</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="latitude" type="xs:float" use="required"></xs:attribute>
+		<xs:attribute name="longitude" type="xs:float" use="required"></xs:attribute>
+		<xs:attribute name="seasonStart" type="xs:date" use="required">
+			<xs:annotation>
+				<xs:documentation></xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="seasonEnd" type="xs:date" use="required"></xs:attribute>
+		<xs:attribute name="city" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="heightAboveSeaLevel" type="xs:float"
+			use="required">
+		</xs:attribute>
+		<xs:attribute name="areaHa" type="xs:float" use="required">
+			<xs:annotation>
+				<xs:documentation>Size of a lake in hectares.</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="depthMax" type="xs:float" use="required">
+			<xs:annotation>
+				<xs:documentation></xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="depthAverage" type="xs:float" use="required"></xs:attribute>
+		<xs:attribute name="introText" type="xs:string" use="required">
+			<xs:annotation>
+				<xs:documentation>Description of a lake.</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="lakeType" type="xs:string" use="required">
+			<xs:annotation>
+				<xs:documentation>Specific type of a lake e. g. "Baggersee",
+					"Talsperre", ... </xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+
+
+	</xs:complexType>
+
+	<xs:complexType name="Measurement">
+		<xs:attribute name="date" type="xs:dateTime" use="required"></xs:attribute>
+		<xs:attribute name="waterTemperature" type="xs:float"
+			use="optional">
+		</xs:attribute>
+		<xs:attribute name="enterocsocci" type="xs:int" use="required">
+			<xs:annotation>
+				<xs:documentation>Amount of enterocsoccis in KBE/100ml.
+				</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="escherichiacoli" type="xs:int" use="required">
+			<xs:annotation>
+				<xs:documentation>Amount of escherichiacolis in KBE/100ml.
+				</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="rating" use="optional">
+			<xs:annotation>
+				<xs:documentation>Rating of a measurement.
+
+					Value "1" means "no complaints"
+					Value "2" means "bathing is not recommended"
+					Value "3" means "lake is closed"
+				</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:restriction base="xs:int">
+					<xs:minInclusive value="1"></xs:minInclusive>
+					<xs:maxInclusive value="3"></xs:maxInclusive>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+		<xs:attribute name="comment" type="xs:string" use="optional"></xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="Message">
+		<xs:attribute name="date" type="xs:dateTime" use="required"></xs:attribute>
+		<xs:attribute name="message" type="xs:string" use="required"></xs:attribute>
+	</xs:complexType>
+
+
+	<xs:complexType name="Yearrating">
+		<xs:attribute name="year" type="xs:int" use="required"></xs:attribute>
+		<xs:attribute name="rating" use="optional">
+            <xs:annotation>
+            	<xs:documentation>The EU-Rating of lake.
+
+					Value "1" means "Best quality"
+					Value "2" means "Good quality"
+					Value "3" means "acceptable quality"
+					Value "4" means "poor quality"
+					Value "5" means "Bathing prohibited"
+					Value "6" means "Bathing is not recommended"</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+				<xs:restriction base="xs:int">
+					<xs:maxInclusive value="6"></xs:maxInclusive>
+					<xs:minInclusive value="1"></xs:minInclusive>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="Image">
+		<xs:attribute name="url" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="copyright" type="xs:string" use="required"></xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="Operator">
+		<xs:attribute name="name" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="street" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="zipcode" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="city" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="email" type="xs:string" use="optional"></xs:attribute>
+		<xs:attribute name="telephone" type="xs:string" use="optional"></xs:attribute>
+		<xs:attribute name="fax" type="xs:string" use="optional"></xs:attribute>
+		<xs:attribute name="website" type="xs:string" use="optional"></xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="Authority">
+		<xs:attribute name="name" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="street" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="zipcode" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="city" type="xs:string" use="required"></xs:attribute>
+		<xs:attribute name="email" type="xs:string" use="optional"></xs:attribute>
+		<xs:attribute name="telephone" type="xs:string" use="optional"></xs:attribute>
+		<xs:attribute name="fax" type="xs:string" use="optional"></xs:attribute>
+		<xs:attribute name="website" type="xs:string" use="optional"></xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="Ressource">
+        <xs:annotation>
+        	<xs:documentation>Ressource URLs</xs:documentation>
+        </xs:annotation>
+        <xs:attribute name="bathymetricChartUrl" type="xs:string"
+			use="optional">
+            <xs:annotation>
+            	<xs:documentation>URL to the bathymetric chart ( "Tiefenkarte" in German language)</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+		<xs:attribute name="landUsePlanUrl" type="xs:string" use="optional">
+			<xs:annotation>
+				<xs:documentation>URL to the land-use plan ( "Flächennutzungsplan" in German language)</xs:documentation>
+			</xs:annotation></xs:attribute>
+		<xs:attribute name="generalInformationUrl" type="xs:string"
+			use="optional">
+			<xs:annotation>
+				<xs:documentation>URL to generell information of a specific lake ( "Allgemeine, nicht fachliche Beschreibung zum Badegewässerprofil" in German language)</xs:documentation>
+			</xs:annotation></xs:attribute>
+	</xs:complexType>
+
+	<xs:simpleType name="Activity">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="ANGELSPORT"></xs:enumeration>
+			<xs:enumeration value="BADEN"></xs:enumeration>
+			<xs:enumeration value="SPORTTAUCHEN"></xs:enumeration>
+			<xs:enumeration value="SEGELN"></xs:enumeration>
+			<xs:enumeration value="WINDSURFEN"></xs:enumeration>
+			<xs:enumeration value="WASSERSPORT"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>
