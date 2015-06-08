@@ -1,6 +1,6 @@
 /*
 * HlugWebScraper
-* 
+*
 *
 * Copyright (c) 2014 Vincent Elliott Wagner
 * Licensed under the MIT license.
@@ -37,7 +37,11 @@ exports.mappingStats = {
 
 function parseDate(input) {
     var parts = input.match(new RegExp('(\\d+)','g'));
-    return new Date(parts[2], parts[1]-1, parts[0]);
+    if(parts && parts.length === 3){
+        return new Date(parts[2], parts[1]-1, parts[0]);
+    }else{
+        return null;
+    }
 }
 
 function getOpenDates($){
@@ -58,7 +62,7 @@ function requestQ(url) {
         }else{
             deferred.resolve([response,html]);
         }
-    });   
+    });
     return deferred.promise;
 }
 
@@ -95,13 +99,16 @@ function requestRetryQ(requestObj, retries){
     retry();
     return deferred.promise;
 }
-
+var printOne = false;
 function getOpenWeatherMapUrl(city){
      var url = 'http://api.openweathermap.org/data/2.5/weather?q=' + encodeURIComponent(city) + ',de&units=metric';
     if(exports.openWeatherMapApiKey){
         url+= '&APPID='+ exports.openWeatherMapApiKey;
     }else{
-        console.warn('Please define OPENWEATHERMAPAPI_KEY! Using test / develop mode of api.  Api could reject requests');
+        if(!printOne){
+            console.warn('Please define OPENWEATHERMAPAPI_KEY! Using test / develop mode of api.  Api could reject requests');
+            printOne = true;
+        }
     }
     return url;
 }
@@ -167,6 +174,21 @@ function filterMeasurementComment(comment){
     /^Sichtkontrolle: Keine Auff(.)lligkeiten$/i
     ];
     var result = comment.trim();
+
+    filterComments.forEach(function(regex){
+        if(regex.test(result)){
+            result = '';
+        }
+    });
+    return result;
+}
+
+function filterTelephoneNumber(rawTelephone){
+    var filterComments = [
+    /---/i,
+    /---/i
+    ];
+    var result = rawTelephone.trim();
 
     filterComments.forEach(function(regex){
         if(regex.test(result)){
@@ -291,8 +313,8 @@ function processLakeProfileQ(url){
             'street': $('<textarea />').html(operatortemp[1]).text().trim(),
             'zipcodeCity': $('<textarea />').html(operatortemp[2]).text().trim(),
             'email': table.eq(12).children().eq(1).text().trim(),
-            'telephone': table.eq(13).children().eq(1).text().trim(),
-            'fax': table.eq(14).children().eq(1).text().trim(),
+            'telephone': filterTelephoneNumber(table.eq(13).children().eq(1).text().trim()),
+            'fax': filterTelephoneNumber(table.eq(14).children().eq(1).text().trim()),
             'website': table.eq(15).children().eq(1).text().trim()
         };
         result.appropriateAuthority = {
@@ -303,9 +325,9 @@ function processLakeProfileQ(url){
             'zipcodeCity': table.eq(21).children().eq(1).text().trim(),
             'telephone': table.eq(22).children().eq(1).text().trim()
         };
-        var generalInformation =  $('a:contains(\'Badegewässerprofil\')').eq(0).attr('href') || null; 
-        var landUseMap =  $('a:contains(\'Flächennutzung\')').eq(0).attr('href') || null; 
-        var bathymetricChart =  $('a:contains(\'Tiefenkarte\')').eq(0).attr('href') || null; 
+        var generalInformation =  $('a:contains(\'Badegewässerprofil\')').eq(0).attr('href') || null;
+        var landUseMap =  $('a:contains(\'Flächennutzung\')').eq(0).attr('href') || null;
+        var bathymetricChart =  $('a:contains(\'Tiefenkarte\')').eq(0).attr('href') || null;
 
         result.downloads = {
             'bathymetricChart':bathymetricChart,
@@ -328,7 +350,7 @@ function getMessages($){
         text = text.trim();
         result.push({
             'date': date,
-            'message': text 
+            'message': text
         });
     });
     result.sort(function(a,b){
@@ -362,7 +384,7 @@ function processLakeQ(lake){
         result = _.extend(result,getOpenDates($));
         result.messages = getMessages($);
         result.bathingPermission = getBathingPermission($);
-        result. introtext = $('div.tx-hlug-badeseen > div:nth-child(5) > p').text();
+        result.introtext = $('div.tx-hlug-badeseen > div:nth-child(5)').text().trim();
         var measurmentyearurls = [];
         $('ul.pagination.hidden-print').first().find('li').each(function(){
             var obj = $(this).children().first();
@@ -464,5 +486,5 @@ exports.scrapeHLUGBadeseenQ = function(mappingParam){
         return q.all(lakes.map(function(lake){
             return processLakeQ(lake);
         }));
-    });    
+    });
 };

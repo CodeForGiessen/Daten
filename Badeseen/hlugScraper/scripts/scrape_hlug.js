@@ -40,5 +40,5 @@ fs.read(program.mapping)
     });
 })
 .catch(function(e){
-    console.trace('Error: ' + e);
+    console.error(e.stack);
 });
